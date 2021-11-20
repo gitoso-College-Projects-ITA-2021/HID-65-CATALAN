@@ -23,3 +23,15 @@ Toda a documentação relevante do projeto encontra-se dentro do diretório `doc
 ## Uso da API da TecSUS
 
 Documentação de uso da APIs utilizadas: [API](./docs/API.md)
+
+## Executando o código inicial (Prova de Conceito)
+
+Instale as dependências (sugestão: Usar um ambiente virtual no Python):
+```bash
+pip install -r requirements.txt
+```
+
+Execute a prova de conceito:
+```bash
+python src/poc.py
+```
