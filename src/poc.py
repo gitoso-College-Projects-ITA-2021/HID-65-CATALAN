@@ -4,7 +4,7 @@ import plotly.express as px
 from datetime import datetime
 
 url = 'https://api.tecsus.com.br/v0/smartmeter/get_simple_data'
-headers = {'x-api-key': os.environ['TECSUS-API-KEY']}
+headers = {'x-api-key': os.environ['TECSUS_API_KEY']}
 params = {'device_id': '198762435721298897478401',
            'dt_start': '2021-08-01 00:00:00',
            'dt_end': '2021-08-30 00:00:00'}

@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+plotly.express
+requests
+
+###### Requirements with Version Specifiers ######
+

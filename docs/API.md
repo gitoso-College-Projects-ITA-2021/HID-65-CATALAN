@@ -9,14 +9,14 @@
     - `device_id`: ID do dispositivo (Dispositivo: Geladeira: 198762435721298897478401)
     - `dt_end`: Data e hora final para requisição dos dados
     - `dt_start`: Data e hora inicial para requisição dos dados
-- **API-KEY:** `REDIGIDO` (No caso aqui para o desenvolvimento usaremos uma variável de ambiente chamada `TECSUS-API-KEY`)
+- **API-KEY:** `REDIGIDO` (No caso aqui para o desenvolvimento usaremos uma variável de ambiente chamada `TECSUS_API_KEY`)
 
 ### Exemplo de aplicação:
 ```bash
 curl --location --request GET
 'https://api.tecsus.com.br/v0/smartmeter/get_simple_data?device_id=198762435721298897478401&dt_start=2021-08-01
 00:00:00&dt_end=2021-08-30 00:00:00' \
---header 'x-api-key: $TECSUS-API-KEY'
+--header 'x-api-key: $TECSUS_API_KEY'
 ```
 
 ### Exemplo de resposta:
