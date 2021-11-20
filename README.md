@@ -31,7 +31,11 @@ Instale as dependências (sugestão: Usar um ambiente virtual no Python):
 pip install -r requirements.txt
 ```
 
-Configure as variáveis de ambiente necessárias (e.g.: chaves de API) no arquivo `environment.sh`.
+Configure as variáveis de ambiente necessárias (e.g.: chaves de API) no seu environment. Por exemplo:
+
+```bash
+export TECSUS_API_KEY=SUBSTITUIR_CHAVE_DA_API_AQUI
+```
 
 Execute a prova de conceito:
 ```bash
