@@ -1,0 +1,5014 @@
+{
+  "error": false,
+  "msg": "Ok",
+  "data": [
+    {
+      "name": "Energia",
+      "measures": [
+        {
+          "measure_unixtime": 1627776024,
+          "measure": 3,
+          "measure_accumulated": 61710
+        },
+        {
+          "measure_unixtime": 1627776324,
+          "measure": 3,
+          "measure_accumulated": 61713
+        },
+        {
+          "measure_unixtime": 1627776624,
+          "measure": 2,
+          "measure_accumulated": 61715
+        },
+        {
+          "measure_unixtime": 1627778124,
+          "measure": 16,
+          "measure_accumulated": 61731
+        },
+        {
+          "measure_unixtime": 1627778424,
+          "measure": 4,
+          "measure_accumulated": 61735
+        },
+        {
+          "measure_unixtime": 1627779024,
+          "measure": 7,
+          "measure_accumulated": 61742
+        },
+        {
+          "measure_unixtime": 1627779324,
+          "measure": 4,
+          "measure_accumulated": 61746
+        },
+        {
+          "measure_unixtime": 1627779624,
+          "measure": 3,
+          "measure_accumulated": 61749
+        },
+        {
+          "measure_unixtime": 1627779924,
+          "measure": 3,
+          "measure_accumulated": 61752
+        },
+        {
+          "measure_unixtime": 1627780224,
+          "measure": 3,
+          "measure_accumulated": 61755
+        },
+        {
+          "measure_unixtime": 1627780524,
+          "measure": 4,
+          "measure_accumulated": 61759
+        },
+        {
+          "measure_unixtime": 1627780824,
+          "measure": 3,
+          "measure_accumulated": 61762
+        },
+        {
+          "measure_unixtime": 1627781424,
+          "measure": 6,
+          "measure_accumulated": 61768
+        },
+        {
+          "measure_unixtime": 1627781724,
+          "measure": 3,
+          "measure_accumulated": 61771
+        },
+        {
+          "measure_unixtime": 1627782324,
+          "measure": 6,
+          "measure_accumulated": 61777
+        },
+        {
+          "measure_unixtime": 1627782924,
+          "measure": 6,
+          "measure_accumulated": 61783
+        },
+        {
+          "measure_unixtime": 1627783524,
+          "measure": 7,
+          "measure_accumulated": 61790
+        },
+        {
+          "measure_unixtime": 1627784124,
+          "measure": 5,
+          "measure_accumulated": 61795
+        },
+        {
+          "measure_unixtime": 1627784424,
+          "measure": 4,
+          "measure_accumulated": 61799
+        },
+        {
+          "measure_unixtime": 1627784724,
+          "measure": 2,
+          "measure_accumulated": 61801
+        },
+        {
+          "measure_unixtime": 1627785024,
+          "measure": 3,
+          "measure_accumulated": 61804
+        },
+        {
+          "measure_unixtime": 1627785324,
+          "measure": 3,
+          "measure_accumulated": 61807
+        },
+        {
+          "measure_unixtime": 1627785924,
+          "measure": 8,
+          "measure_accumulated": 61815
+        },
+        {
+          "measure_unixtime": 1627786524,
+          "measure": 7,
+          "measure_accumulated": 61822
+        },
+        {
+          "measure_unixtime": 1627786824,
+          "measure": 3,
+          "measure_accumulated": 61825
+        },
+        {
+          "measure_unixtime": 1627787424,
+          "measure": 7,
+          "measure_accumulated": 61832
+        },
+        {
+          "measure_unixtime": 1627787724,
+          "measure": 3,
+          "measure_accumulated": 61835
+        },
+        {
+          "measure_unixtime": 1627788324,
+          "measure": 6,
+          "measure_accumulated": 61841
+        },
+        {
+          "measure_unixtime": 1627788624,
+          "measure": 3,
+          "measure_accumulated": 61844
+        },
+        {
+          "measure_unixtime": 1627788924,
+          "measure": 3,
+          "measure_accumulated": 61847
+        },
+        {
+          "measure_unixtime": 1627789224,
+          "measure": 3,
+          "measure_accumulated": 61850
+        },
+        {
+          "measure_unixtime": 1627789524,
+          "measure": 3,
+          "measure_accumulated": 61853
+        },
+        {
+          "measure_unixtime": 1627789824,
+          "measure": 3,
+          "measure_accumulated": 61856
+        },
+        {
+          "measure_unixtime": 1627790124,
+          "measure": 3,
+          "measure_accumulated": 61859
+        },
+        {
+          "measure_unixtime": 1627790424,
+          "measure": 3,
+          "measure_accumulated": 61862
+        },
+        {
+          "measure_unixtime": 1627791324,
+          "measure": 11,
+          "measure_accumulated": 61873
+        },
+        {
+          "measure_unixtime": 1627791624,
+          "measure": 3,
+          "measure_accumulated": 61876
+        },
+        {
+          "measure_unixtime": 1627791924,
+          "measure": 4,
+          "measure_accumulated": 61880
+        },
+        {
+          "measure_unixtime": 1627792224,
+          "measure": 4,
+          "measure_accumulated": 61884
+        },
+        {
+          "measure_unixtime": 1627792524,
+          "measure": 3,
+          "measure_accumulated": 61887
+        },
+        {
+          "measure_unixtime": 1627792824,
+          "measure": 4,
+          "measure_accumulated": 61891
+        },
+        {
+          "measure_unixtime": 1627793124,
+          "measure": 3,
+          "measure_accumulated": 61894
+        },
+        {
+          "measure_unixtime": 1627793424,
+          "measure": 4,
+          "measure_accumulated": 61898
+        },
+        {
+          "measure_unixtime": 1627793724,
+          "measure": 4,
+          "measure_accumulated": 61902
+        },
+        {
+          "measure_unixtime": 1627794624,
+          "measure": 11,
+          "measure_accumulated": 61913
+        },
+        {
+          "measure_unixtime": 1627794924,
+          "measure": 3,
+          "measure_accumulated": 61916
+        },
+        {
+          "measure_unixtime": 1627795524,
+          "measure": 7,
+          "measure_accumulated": 61923
+        },
+        {
+          "measure_unixtime": 1627795824,
+          "measure": 4,
+          "measure_accumulated": 61927
+        },
+        {
+          "measure_unixtime": 1627796724,
+          "measure": 7,
+          "measure_accumulated": 61934
+        },
+        {
+          "measure_unixtime": 1627797024,
+          "measure": 7,
+          "measure_accumulated": 61941
+        },
+        {
+          "measure_unixtime": 1627797624,
+          "measure": 18,
+          "measure_accumulated": 61959
+        },
+        {
+          "measure_unixtime": 1627797924,
+          "measure": 9,
+          "measure_accumulated": 61968
+        },
+        {
+          "measure_unixtime": 1627798224,
+          "measure": 8,
+          "measure_accumulated": 61976
+        },
+        {
+          "measure_unixtime": 1627798524,
+          "measure": 9,
+          "measure_accumulated": 61985
+        },
+        {
+          "measure_unixtime": 1627798824,
+          "measure": 9,
+          "measure_accumulated": 61994
+        },
+        {
+          "measure_unixtime": 1627799124,
+          "measure": 8,
+          "measure_accumulated": 62002
+        },
+        {
+          "measure_unixtime": 1627799424,
+          "measure": 3,
+          "measure_accumulated": 62005
+        },
+        {
+          "measure_unixtime": 1627799724,
+          "measure": 7,
+          "measure_accumulated": 62012
+        },
+        {
+          "measure_unixtime": 1627800024,
+          "measure": 6,
+          "measure_accumulated": 62018
+        },
+        {
+          "measure_unixtime": 1627800324,
+          "measure": 7,
+          "measure_accumulated": 62025
+        },
+        {
+          "measure_unixtime": 1627800624,
+          "measure": 6,
+          "measure_accumulated": 62031
+        },
+        {
+          "measure_unixtime": 1627800924,
+          "measure": 7,
+          "measure_accumulated": 62038
+        },
+        {
+          "measure_unixtime": 1627801224,
+          "measure": 7,
+          "measure_accumulated": 62045
+        },
+        {
+          "measure_unixtime": 1627801824,
+          "measure": 12,
+          "measure_accumulated": 62057
+        },
+        {
+          "measure_unixtime": 1627802424,
+          "measure": 13,
+          "measure_accumulated": 62070
+        },
+        {
+          "measure_unixtime": 1627802724,
+          "measure": 3,
+          "measure_accumulated": 62073
+        },
+        {
+          "measure_unixtime": 1627803024,
+          "measure": 3,
+          "measure_accumulated": 62076
+        },
+        {
+          "measure_unixtime": 1627803324,
+          "measure": 3,
+          "measure_accumulated": 62079
+        },
+        {
+          "measure_unixtime": 1627803624,
+          "measure": 4,
+          "measure_accumulated": 62083
+        },
+        {
+          "measure_unixtime": 1627804224,
+          "measure": 6,
+          "measure_accumulated": 62089
+        },
+        {
+          "measure_unixtime": 1627804824,
+          "measure": 7,
+          "measure_accumulated": 62096
+        },
+        {
+          "measure_unixtime": 1627805424,
+          "measure": 6,
+          "measure_accumulated": 62102
+        },
+        {
+          "measure_unixtime": 1627805724,
+          "measure": 3,
+          "measure_accumulated": 62105
+        },
+        {
+          "measure_unixtime": 1627806024,
+          "measure": 3,
+          "measure_accumulated": 62108
+        },
+        {
+          "measure_unixtime": 1627806324,
+          "measure": 4,
+          "measure_accumulated": 62112
+        },
+        {
+          "measure_unixtime": 1627806624,
+          "measure": 3,
+          "measure_accumulated": 62115
+        },
+        {
+          "measure_unixtime": 1627806924,
+          "measure": 3,
+          "measure_accumulated": 62118
+        },
+        {
+          "measure_unixtime": 1627807224,
+          "measure": 3,
+          "measure_accumulated": 62121
+        },
+        {
+          "measure_unixtime": 1627807524,
+          "measure": 3,
+          "measure_accumulated": 62124
+        },
+        {
+          "measure_unixtime": 1627807824,
+          "measure": 4,
+          "measure_accumulated": 62128
+        },
+        {
+          "measure_unixtime": 1627808424,
+          "measure": 6,
+          "measure_accumulated": 62134
+        },
+        {
+          "measure_unixtime": 1627808724,
+          "measure": 3,
+          "measure_accumulated": 62137
+        },
+        {
+          "measure_unixtime": 1627809024,
+          "measure": 3,
+          "measure_accumulated": 62140
+        },
+        {
+          "measure_unixtime": 1627809324,
+          "measure": 3,
+          "measure_accumulated": 62143
+        },
+        {
+          "measure_unixtime": 1627809624,
+          "measure": 3,
+          "measure_accumulated": 62146
+        },
+        {
+          "measure_unixtime": 1627809924,
+          "measure": 3,
+          "measure_accumulated": 62149
+        },
+        {
+          "measure_unixtime": 1627810224,
+          "measure": 3,
+          "measure_accumulated": 62152
+        },
+        {
+          "measure_unixtime": 1627810824,
+          "measure": 8,
+          "measure_accumulated": 62160
+        },
+        {
+          "measure_unixtime": 1627811124,
+          "measure": 5,
+          "measure_accumulated": 62165
+        },
+        {
+          "measure_unixtime": 1627811424,
+          "measure": 4,
+          "measure_accumulated": 62169
+        },
+        {
+          "measure_unixtime": 1627811724,
+          "measure": 4,
+          "measure_accumulated": 62173
+        },
+        {
+          "measure_unixtime": 1627812024,
+          "measure": 4,
+          "measure_accumulated": 62177
+        },
+        {
+          "measure_unixtime": 1627812324,
+          "measure": 3,
+          "measure_accumulated": 62180
+        },
+        {
+          "measure_unixtime": 1627812924,
+          "measure": 7,
+          "measure_accumulated": 62187
+        },
+        {
+          "measure_unixtime": 1627813224,
+          "measure": 4,
+          "measure_accumulated": 62191
+        },
+        {
+          "measure_unixtime": 1627813524,
+          "measure": 3,
+          "measure_accumulated": 62194
+        },
+        {
+          "measure_unixtime": 1627813824,
+          "measure": 4,
+          "measure_accumulated": 62198
+        },
+        {
+          "measure_unixtime": 1627814124,
+          "measure": 3,
+          "measure_accumulated": 62201
+        },
+        {
+          "measure_unixtime": 1627814424,
+          "measure": 4,
+          "measure_accumulated": 62205
+        },
+        {
+          "measure_unixtime": 1627814724,
+          "measure": 3,
+          "measure_accumulated": 62208
+        },
+        {
+          "measure_unixtime": 1627815024,
+          "measure": 3,
+          "measure_accumulated": 62211
+        },
+        {
+          "measure_unixtime": 1627815324,
+          "measure": 4,
+          "measure_accumulated": 62215
+        },
+        {
+          "measure_unixtime": 1627815624,
+          "measure": 2,
+          "measure_accumulated": 62217
+        },
+        {
+          "measure_unixtime": 1627816224,
+          "measure": 6,
+          "measure_accumulated": 62223
+        },
+        {
+          "measure_unixtime": 1627816524,
+          "measure": 2,
+          "measure_accumulated": 62225
+        },
+        {
+          "measure_unixtime": 1627816824,
+          "measure": 3,
+          "measure_accumulated": 62228
+        },
+        {
+          "measure_unixtime": 1627817124,
+          "measure": 3,
+          "measure_accumulated": 62231
+        },
+        {
+          "measure_unixtime": 1627817424,
+          "measure": 4,
+          "measure_accumulated": 62235
+        },
+        {
+          "measure_unixtime": 1627817724,
+          "measure": 3,
+          "measure_accumulated": 62238
+        },
+        {
+          "measure_unixtime": 1627818024,
+          "measure": 3,
+          "measure_accumulated": 62241
+        },
+        {
+          "measure_unixtime": 1627818624,
+          "measure": 6,
+          "measure_accumulated": 62247
+        },
+        {
+          "measure_unixtime": 1627818924,
+          "measure": 3,
+          "measure_accumulated": 62250
+        },
+        {
+          "measure_unixtime": 1627819224,
+          "measure": 4,
+          "measure_accumulated": 62254
+        },
+        {
+          "measure_unixtime": 1627819524,
+          "measure": 4,
+          "measure_accumulated": 62258
+        },
+        {
+          "measure_unixtime": 1627819824,
+          "measure": 4,
+          "measure_accumulated": 62262
+        },
+        {
+          "measure_unixtime": 1627820424,
+          "measure": 9,
+          "measure_accumulated": 62271
+        },
+        {
+          "measure_unixtime": 1627821024,
+          "measure": 8,
+          "measure_accumulated": 62279
+        },
+        {
+          "measure_unixtime": 1627821624,
+          "measure": 7,
+          "measure_accumulated": 62286
+        },
+        {
+          "measure_unixtime": 1627821924,
+          "measure": 3,
+          "measure_accumulated": 62289
+        },
+        {
+          "measure_unixtime": 1627822224,
+          "measure": 4,
+          "measure_accumulated": 62293
+        },
+        {
+          "measure_unixtime": 1627822524,
+          "measure": 4,
+          "measure_accumulated": 62297
+        },
+        {
+          "measure_unixtime": 1627822824,
+          "measure": 3,
+          "measure_accumulated": 62300
+        },
+        {
+          "measure_unixtime": 1627823424,
+          "measure": 7,
+          "measure_accumulated": 62307
+        },
+        {
+          "measure_unixtime": 1627824024,
+          "measure": 6,
+          "measure_accumulated": 62313
+        },
+        {
+          "measure_unixtime": 1627824324,
+          "measure": 3,
+          "measure_accumulated": 62316
+        },
+        {
+          "measure_unixtime": 1627824624,
+          "measure": 3,
+          "measure_accumulated": 62319
+        },
+        {
+          "measure_unixtime": 1627824924,
+          "measure": 2,
+          "measure_accumulated": 62321
+        },
+        {
+          "measure_unixtime": 1627825224,
+          "measure": 3,
+          "measure_accumulated": 62324
+        },
+        {
+          "measure_unixtime": 1627825824,
+          "measure": 2,
+          "measure_accumulated": 62326
+        },
+        {
+          "measure_unixtime": 1627826124,
+          "measure": 4,
+          "measure_accumulated": 62330
+        },
+        {
+          "measure_unixtime": 1627826724,
+          "measure": 7,
+          "measure_accumulated": 62337
+        },
+        {
+          "measure_unixtime": 1627827024,
+          "measure": 3,
+          "measure_accumulated": 62340
+        },
+        {
+          "measure_unixtime": 1627827324,
+          "measure": 4,
+          "measure_accumulated": 62344
+        },
+        {
+          "measure_unixtime": 1627827924,
+          "measure": 7,
+          "measure_accumulated": 62351
+        },
+        {
+          "measure_unixtime": 1627828224,
+          "measure": 3,
+          "measure_accumulated": 62354
+        },
+        {
+          "measure_unixtime": 1627828524,
+          "measure": 3,
+          "measure_accumulated": 62357
+        },
+        {
+          "measure_unixtime": 1627828824,
+          "measure": 3,
+          "measure_accumulated": 62360
+        },
+        {
+          "measure_unixtime": 1627829124,
+          "measure": 3,
+          "measure_accumulated": 62363
+        },
+        {
+          "measure_unixtime": 1627829424,
+          "measure": 3,
+          "measure_accumulated": 62366
+        },
+        {
+          "measure_unixtime": 1627829724,
+          "measure": 3,
+          "measure_accumulated": 62369
+        },
+        {
+          "measure_unixtime": 1627830024,
+          "measure": 3,
+          "measure_accumulated": 62372
+        },
+        {
+          "measure_unixtime": 1627830324,
+          "measure": 3,
+          "measure_accumulated": 62375
+        },
+        {
+          "measure_unixtime": 1627830924,
+          "measure": 6,
+          "measure_accumulated": 62381
+        },
+        {
+          "measure_unixtime": 1627831524,
+          "measure": 7,
+          "measure_accumulated": 62388
+        },
+        {
+          "measure_unixtime": 1627832124,
+          "measure": 7,
+          "measure_accumulated": 62395
+        },
+        {
+          "measure_unixtime": 1627832424,
+          "measure": 3,
+          "measure_accumulated": 62398
+        },
+        {
+          "measure_unixtime": 1627832724,
+          "measure": 3,
+          "measure_accumulated": 62401
+        },
+        {
+          "measure_unixtime": 1627833024,
+          "measure": 4,
+          "measure_accumulated": 62405
+        },
+        {
+          "measure_unixtime": 1627833324,
+          "measure": 3,
+          "measure_accumulated": 62408
+        },
+        {
+          "measure_unixtime": 1627833624,
+          "measure": 3,
+          "measure_accumulated": 62411
+        },
+        {
+          "measure_unixtime": 1627833924,
+          "measure": 3,
+          "measure_accumulated": 62414
+        },
+        {
+          "measure_unixtime": 1627834224,
+          "measure": 3,
+          "measure_accumulated": 62417
+        },
+        {
+          "measure_unixtime": 1627834524,
+          "measure": 3,
+          "measure_accumulated": 62420
+        },
+        {
+          "measure_unixtime": 1627835124,
+          "measure": 7,
+          "measure_accumulated": 62427
+        },
+        {
+          "measure_unixtime": 1627835424,
+          "measure": 3,
+          "measure_accumulated": 62430
+        },
+        {
+          "measure_unixtime": 1627835724,
+          "measure": 4,
+          "measure_accumulated": 62434
+        },
+        {
+          "measure_unixtime": 1627836024,
+          "measure": 3,
+          "measure_accumulated": 62437
+        },
+        {
+          "measure_unixtime": 1627836624,
+          "measure": 6,
+          "measure_accumulated": 62443
+        },
+        {
+          "measure_unixtime": 1627837824,
+          "measure": 14,
+          "measure_accumulated": 62457
+        },
+        {
+          "measure_unixtime": 1627838124,
+          "measure": 3,
+          "measure_accumulated": 62460
+        },
+        {
+          "measure_unixtime": 1627838424,
+          "measure": 3,
+          "measure_accumulated": 62463
+        },
+        {
+          "measure_unixtime": 1627838724,
+          "measure": 3,
+          "measure_accumulated": 62466
+        },
+        {
+          "measure_unixtime": 1627839024,
+          "measure": 3,
+          "measure_accumulated": 62469
+        },
+        {
+          "measure_unixtime": 1627839324,
+          "measure": 4,
+          "measure_accumulated": 62473
+        },
+        {
+          "measure_unixtime": 1627839924,
+          "measure": 6,
+          "measure_accumulated": 62479
+        },
+        {
+          "measure_unixtime": 1627840224,
+          "measure": 4,
+          "measure_accumulated": 62483
+        },
+        {
+          "measure_unixtime": 1627840524,
+          "measure": 4,
+          "measure_accumulated": 62487
+        },
+        {
+          "measure_unixtime": 1627840824,
+          "measure": 3,
+          "measure_accumulated": 62490
+        },
+        {
+          "measure_unixtime": 1627841124,
+          "measure": 3,
+          "measure_accumulated": 62493
+        },
+        {
+          "measure_unixtime": 1627841424,
+          "measure": 4,
+          "measure_accumulated": 62497
+        },
+        {
+          "measure_unixtime": 1627842024,
+          "measure": 7,
+          "measure_accumulated": 62504
+        },
+        {
+          "measure_unixtime": 1627842324,
+          "measure": 3,
+          "measure_accumulated": 62507
+        },
+        {
+          "measure_unixtime": 1627842624,
+          "measure": 3,
+          "measure_accumulated": 62510
+        },
+        {
+          "measure_unixtime": 1627843524,
+          "measure": 10,
+          "measure_accumulated": 62520
+        },
+        {
+          "measure_unixtime": 1627844124,
+          "measure": 6,
+          "measure_accumulated": 62526
+        },
+        {
+          "measure_unixtime": 1627844424,
+          "measure": 3,
+          "measure_accumulated": 62529
+        },
+        {
+          "measure_unixtime": 1627844724,
+          "measure": 3,
+          "measure_accumulated": 62532
+        },
+        {
+          "measure_unixtime": 1627845324,
+          "measure": 7,
+          "measure_accumulated": 62539
+        },
+        {
+          "measure_unixtime": 1627845624,
+          "measure": 3,
+          "measure_accumulated": 62542
+        },
+        {
+          "measure_unixtime": 1627845924,
+          "measure": 3,
+          "measure_accumulated": 62545
+        },
+        {
+          "measure_unixtime": 1627846224,
+          "measure": 4,
+          "measure_accumulated": 62549
+        },
+        {
+          "measure_unixtime": 1627846524,
+          "measure": 2,
+          "measure_accumulated": 62551
+        },
+        {
+          "measure_unixtime": 1627847424,
+          "measure": 20,
+          "measure_accumulated": 62571
+        },
+        {
+          "measure_unixtime": 1627848024,
+          "measure": 18,
+          "measure_accumulated": 62589
+        },
+        {
+          "measure_unixtime": 1627848624,
+          "measure": 18,
+          "measure_accumulated": 62607
+        },
+        {
+          "measure_unixtime": 1627849224,
+          "measure": 14,
+          "measure_accumulated": 62621
+        },
+        {
+          "measure_unixtime": 1627849524,
+          "measure": 6,
+          "measure_accumulated": 62627
+        },
+        {
+          "measure_unixtime": 1627849824,
+          "measure": 6,
+          "measure_accumulated": 62633
+        },
+        {
+          "measure_unixtime": 1627850124,
+          "measure": 7,
+          "measure_accumulated": 62640
+        },
+        {
+          "measure_unixtime": 1627850424,
+          "measure": 6,
+          "measure_accumulated": 62646
+        },
+        {
+          "measure_unixtime": 1627850724,
+          "measure": 7,
+          "measure_accumulated": 62653
+        },
+        {
+          "measure_unixtime": 1627851024,
+          "measure": 7,
+          "measure_accumulated": 62660
+        },
+        {
+          "measure_unixtime": 1627851324,
+          "measure": 6,
+          "measure_accumulated": 62666
+        },
+        {
+          "measure_unixtime": 1627851624,
+          "measure": 6,
+          "measure_accumulated": 62672
+        },
+        {
+          "measure_unixtime": 1627851924,
+          "measure": 7,
+          "measure_accumulated": 62679
+        },
+        {
+          "measure_unixtime": 1627852224,
+          "measure": 6,
+          "measure_accumulated": 62685
+        },
+        {
+          "measure_unixtime": 1627852824,
+          "measure": 13,
+          "measure_accumulated": 62698
+        },
+        {
+          "measure_unixtime": 1627853124,
+          "measure": 3,
+          "measure_accumulated": 62701
+        },
+        {
+          "measure_unixtime": 1627853424,
+          "measure": 3,
+          "measure_accumulated": 62704
+        },
+        {
+          "measure_unixtime": 1627853724,
+          "measure": 3,
+          "measure_accumulated": 62707
+        },
+        {
+          "measure_unixtime": 1627854024,
+          "measure": 3,
+          "measure_accumulated": 62710
+        },
+        {
+          "measure_unixtime": 1627854324,
+          "measure": 3,
+          "measure_accumulated": 62713
+        },
+        {
+          "measure_unixtime": 1627854924,
+          "measure": 7,
+          "measure_accumulated": 62720
+        },
+        {
+          "measure_unixtime": 1627855224,
+          "measure": 3,
+          "measure_accumulated": 62723
+        },
+        {
+          "measure_unixtime": 1627855824,
+          "measure": 8,
+          "measure_accumulated": 62731
+        },
+        {
+          "measure_unixtime": 1627856124,
+          "measure": 4,
+          "measure_accumulated": 62735
+        },
+        {
+          "measure_unixtime": 1627856424,
+          "measure": 3,
+          "measure_accumulated": 62738
+        },
+        {
+          "measure_unixtime": 1627857024,
+          "measure": 7,
+          "measure_accumulated": 62745
+        },
+        {
+          "measure_unixtime": 1627857324,
+          "measure": 3,
+          "measure_accumulated": 62748
+        },
+        {
+          "measure_unixtime": 1627857624,
+          "measure": 3,
+          "measure_accumulated": 62751
+        },
+        {
+          "measure_unixtime": 1627857924,
+          "measure": 3,
+          "measure_accumulated": 62754
+        },
+        {
+          "measure_unixtime": 1627858224,
+          "measure": 4,
+          "measure_accumulated": 62758
+        },
+        {
+          "measure_unixtime": 1627858824,
+          "measure": 7,
+          "measure_accumulated": 62765
+        },
+        {
+          "measure_unixtime": 1627859724,
+          "measure": 10,
+          "measure_accumulated": 62775
+        },
+        {
+          "measure_unixtime": 1627860024,
+          "measure": 3,
+          "measure_accumulated": 62778
+        },
+        {
+          "measure_unixtime": 1627860324,
+          "measure": 4,
+          "measure_accumulated": 62782
+        },
+        {
+          "measure_unixtime": 1627860624,
+          "measure": 3,
+          "measure_accumulated": 62785
+        },
+        {
+          "measure_unixtime": 1627860924,
+          "measure": 3,
+          "measure_accumulated": 62788
+        },
+        {
+          "measure_unixtime": 1627861224,
+          "measure": 3,
+          "measure_accumulated": 62791
+        },
+        {
+          "measure_unixtime": 1627861524,
+          "measure": 3,
+          "measure_accumulated": 62794
+        },
+        {
+          "measure_unixtime": 1627861824,
+          "measure": 7,
+          "measure_accumulated": 62801
+        },
+        {
+          "measure_unixtime": 1627862124,
+          "measure": 6,
+          "measure_accumulated": 62807
+        },
+        {
+          "measure_unixtime": 1627863024,
+          "measure": 19,
+          "measure_accumulated": 62826
+        },
+        {
+          "measure_unixtime": 1627863324,
+          "measure": 7,
+          "measure_accumulated": 62833
+        },
+        {
+          "measure_unixtime": 1627863924,
+          "measure": 13,
+          "measure_accumulated": 62846
+        },
+        {
+          "measure_unixtime": 1627864524,
+          "measure": 12,
+          "measure_accumulated": 62858
+        },
+        {
+          "measure_unixtime": 1627864824,
+          "measure": 7,
+          "measure_accumulated": 62865
+        },
+        {
+          "measure_unixtime": 1627865424,
+          "measure": 13,
+          "measure_accumulated": 62878
+        },
+        {
+          "measure_unixtime": 1627865724,
+          "measure": 6,
+          "measure_accumulated": 62884
+        },
+        {
+          "measure_unixtime": 1627866624,
+          "measure": 19,
+          "measure_accumulated": 62903
+        },
+        {
+          "measure_unixtime": 1627867524,
+          "measure": 19,
+          "measure_accumulated": 62922
+        },
+        {
+          "measure_unixtime": 1627867824,
+          "measure": 7,
+          "measure_accumulated": 62929
+        },
+        {
+          "measure_unixtime": 1627868424,
+          "measure": 12,
+          "measure_accumulated": 62941
+        },
+        {
+          "measure_unixtime": 1627868724,
+          "measure": 7,
+          "measure_accumulated": 62948
+        },
+        {
+          "measure_unixtime": 1627869024,
+          "measure": 6,
+          "measure_accumulated": 62954
+        },
+        {
+          "measure_unixtime": 1627869324,
+          "measure": 6,
+          "measure_accumulated": 62960
+        },
+        {
+          "measure_unixtime": 1627869924,
+          "measure": 12,
+          "measure_accumulated": 62972
+        },
+        {
+          "measure_unixtime": 1627870224,
+          "measure": 3,
+          "measure_accumulated": 62975
+        },
+        {
+          "measure_unixtime": 1627870524,
+          "measure": 3,
+          "measure_accumulated": 62978
+        },
+        {
+          "measure_unixtime": 1627871124,
+          "measure": 6,
+          "measure_accumulated": 62984
+        },
+        {
+          "measure_unixtime": 1627871424,
+          "measure": 3,
+          "measure_accumulated": 62987
+        },
+        {
+          "measure_unixtime": 1627872024,
+          "measure": 12,
+          "measure_accumulated": 62999
+        },
+        {
+          "measure_unixtime": 1627872324,
+          "measure": 6,
+          "measure_accumulated": 63005
+        },
+        {
+          "measure_unixtime": 1627872624,
+          "measure": 6,
+          "measure_accumulated": 63011
+        },
+        {
+          "measure_unixtime": 1627872924,
+          "measure": 6,
+          "measure_accumulated": 63017
+        },
+        {
+          "measure_unixtime": 1627873224,
+          "measure": 7,
+          "measure_accumulated": 63024
+        },
+        {
+          "measure_unixtime": 1627873524,
+          "measure": 6,
+          "measure_accumulated": 63030
+        },
+        {
+          "measure_unixtime": 1627873824,
+          "measure": 6,
+          "measure_accumulated": 63036
+        },
+        {
+          "measure_unixtime": 1627874124,
+          "measure": 6,
+          "measure_accumulated": 63042
+        },
+        {
+          "measure_unixtime": 1627874424,
+          "measure": 5,
+          "measure_accumulated": 63047
+        },
+        {
+          "measure_unixtime": 1627874724,
+          "measure": 3,
+          "measure_accumulated": 63050
+        },
+        {
+          "measure_unixtime": 1627875324,
+          "measure": 6,
+          "measure_accumulated": 63056
+        },
+        {
+          "measure_unixtime": 1627875624,
+          "measure": 4,
+          "measure_accumulated": 63060
+        },
+        {
+          "measure_unixtime": 1627875924,
+          "measure": 3,
+          "measure_accumulated": 63063
+        },
+        {
+          "measure_unixtime": 1627876824,
+          "measure": 10,
+          "measure_accumulated": 63073
+        },
+        {
+          "measure_unixtime": 1627877124,
+          "measure": 3,
+          "measure_accumulated": 63076
+        },
+        {
+          "measure_unixtime": 1627877424,
+          "measure": 3,
+          "measure_accumulated": 63079
+        },
+        {
+          "measure_unixtime": 1627877724,
+          "measure": 3,
+          "measure_accumulated": 63082
+        },
+        {
+          "measure_unixtime": 1627878024,
+          "measure": 3,
+          "measure_accumulated": 63085
+        },
+        {
+          "measure_unixtime": 1627878324,
+          "measure": 3,
+          "measure_accumulated": 63088
+        },
+        {
+          "measure_unixtime": 1627878924,
+          "measure": 6,
+          "measure_accumulated": 63094
+        },
+        {
+          "measure_unixtime": 1627879224,
+          "measure": 3,
+          "measure_accumulated": 63097
+        },
+        {
+          "measure_unixtime": 1627879524,
+          "measure": 3,
+          "measure_accumulated": 63100
+        },
+        {
+          "measure_unixtime": 1627879824,
+          "measure": 3,
+          "measure_accumulated": 63103
+        },
+        {
+          "measure_unixtime": 1627880124,
+          "measure": 4,
+          "measure_accumulated": 63107
+        },
+        {
+          "measure_unixtime": 1627880724,
+          "measure": 6,
+          "measure_accumulated": 63113
+        },
+        {
+          "measure_unixtime": 1627881324,
+          "measure": 7,
+          "measure_accumulated": 63120
+        },
+        {
+          "measure_unixtime": 1627881624,
+          "measure": 4,
+          "measure_accumulated": 63124
+        },
+        {
+          "measure_unixtime": 1627881924,
+          "measure": 4,
+          "measure_accumulated": 63128
+        },
+        {
+          "measure_unixtime": 1627882224,
+          "measure": 3,
+          "measure_accumulated": 63131
+        },
+        {
+          "measure_unixtime": 1627882524,
+          "measure": 3,
+          "measure_accumulated": 63134
+        },
+        {
+          "measure_unixtime": 1627882824,
+          "measure": 4,
+          "measure_accumulated": 63138
+        },
+        {
+          "measure_unixtime": 1627883124,
+          "measure": 3,
+          "measure_accumulated": 63141
+        },
+        {
+          "measure_unixtime": 1627883424,
+          "measure": 3,
+          "measure_accumulated": 63144
+        },
+        {
+          "measure_unixtime": 1627883724,
+          "measure": 3,
+          "measure_accumulated": 63147
+        },
+        {
+          "measure_unixtime": 1627884024,
+          "measure": 4,
+          "measure_accumulated": 63151
+        },
+        {
+          "measure_unixtime": 1627884624,
+          "measure": 6,
+          "measure_accumulated": 63157
+        },
+        {
+          "measure_unixtime": 1627884924,
+          "measure": 3,
+          "measure_accumulated": 63160
+        },
+        {
+          "measure_unixtime": 1627885224,
+          "measure": 3,
+          "measure_accumulated": 63163
+        },
+        {
+          "measure_unixtime": 1627885524,
+          "measure": 3,
+          "measure_accumulated": 63166
+        },
+        {
+          "measure_unixtime": 1627885824,
+          "measure": 4,
+          "measure_accumulated": 63170
+        },
+        {
+          "measure_unixtime": 1627886124,
+          "measure": 3,
+          "measure_accumulated": 63173
+        },
+        {
+          "measure_unixtime": 1627886424,
+          "measure": 3,
+          "measure_accumulated": 63176
+        },
+        {
+          "measure_unixtime": 1627887624,
+          "measure": 13,
+          "measure_accumulated": 63189
+        },
+        {
+          "measure_unixtime": 1627888224,
+          "measure": 6,
+          "measure_accumulated": 63195
+        },
+        {
+          "measure_unixtime": 1627888524,
+          "measure": 3,
+          "measure_accumulated": 63198
+        },
+        {
+          "measure_unixtime": 1627888824,
+          "measure": 3,
+          "measure_accumulated": 63201
+        },
+        {
+          "measure_unixtime": 1627889124,
+          "measure": 3,
+          "measure_accumulated": 63204
+        },
+        {
+          "measure_unixtime": 1627889724,
+          "measure": 7,
+          "measure_accumulated": 63211
+        },
+        {
+          "measure_unixtime": 1627890024,
+          "measure": 3,
+          "measure_accumulated": 63214
+        },
+        {
+          "measure_unixtime": 1627890324,
+          "measure": 3,
+          "measure_accumulated": 63217
+        },
+        {
+          "measure_unixtime": 1627890624,
+          "measure": 3,
+          "measure_accumulated": 63220
+        },
+        {
+          "measure_unixtime": 1627891224,
+          "measure": 7,
+          "measure_accumulated": 63227
+        },
+        {
+          "measure_unixtime": 1627891524,
+          "measure": 4,
+          "measure_accumulated": 63231
+        },
+        {
+          "measure_unixtime": 1627891824,
+          "measure": 3,
+          "measure_accumulated": 63234
+        },
+        {
+          "measure_unixtime": 1627892124,
+          "measure": 4,
+          "measure_accumulated": 63238
+        },
+        {
+          "measure_unixtime": 1627892424,
+          "measure": 3,
+          "measure_accumulated": 63241
+        },
+        {
+          "measure_unixtime": 1627892724,
+          "measure": 4,
+          "measure_accumulated": 63245
+        },
+        {
+          "measure_unixtime": 1627893324,
+          "measure": 7,
+          "measure_accumulated": 63252
+        },
+        {
+          "measure_unixtime": 1627893624,
+          "measure": 3,
+          "measure_accumulated": 63255
+        },
+        {
+          "measure_unixtime": 1627894224,
+          "measure": 7,
+          "measure_accumulated": 63262
+        },
+        {
+          "measure_unixtime": 1627894524,
+          "measure": 3,
+          "measure_accumulated": 63265
+        },
+        {
+          "measure_unixtime": 1627895724,
+          "measure": 14,
+          "measure_accumulated": 63279
+        },
+        {
+          "measure_unixtime": 1627896024,
+          "measure": 2,
+          "measure_accumulated": 63281
+        },
+        {
+          "measure_unixtime": 1627896324,
+          "measure": 4,
+          "measure_accumulated": 63285
+        },
+        {
+          "measure_unixtime": 1627896924,
+          "measure": 16,
+          "measure_accumulated": 63301
+        },
+        {
+          "measure_unixtime": 1627897224,
+          "measure": 9,
+          "measure_accumulated": 63310
+        },
+        {
+          "measure_unixtime": 1627897524,
+          "measure": 9,
+          "measure_accumulated": 63319
+        },
+        {
+          "measure_unixtime": 1627897824,
+          "measure": 8,
+          "measure_accumulated": 63327
+        },
+        {
+          "measure_unixtime": 1627898424,
+          "measure": 18,
+          "measure_accumulated": 63345
+        },
+        {
+          "measure_unixtime": 1627899024,
+          "measure": 10,
+          "measure_accumulated": 63355
+        },
+        {
+          "measure_unixtime": 1627899324,
+          "measure": 6,
+          "measure_accumulated": 63361
+        },
+        {
+          "measure_unixtime": 1627899924,
+          "measure": 14,
+          "measure_accumulated": 63375
+        },
+        {
+          "measure_unixtime": 1627900224,
+          "measure": 6,
+          "measure_accumulated": 63381
+        },
+        {
+          "measure_unixtime": 1627900524,
+          "measure": 7,
+          "measure_accumulated": 63388
+        },
+        {
+          "measure_unixtime": 1627901124,
+          "measure": 13,
+          "measure_accumulated": 63401
+        },
+        {
+          "measure_unixtime": 1627901424,
+          "measure": 6,
+          "measure_accumulated": 63407
+        },
+        {
+          "measure_unixtime": 1627901724,
+          "measure": 5,
+          "measure_accumulated": 63412
+        },
+        {
+          "measure_unixtime": 1627902024,
+          "measure": 3,
+          "measure_accumulated": 63415
+        },
+        {
+          "measure_unixtime": 1627902324,
+          "measure": 3,
+          "measure_accumulated": 63418
+        },
+        {
+          "measure_unixtime": 1627902624,
+          "measure": 4,
+          "measure_accumulated": 63422
+        },
+        {
+          "measure_unixtime": 1627902924,
+          "measure": 4,
+          "measure_accumulated": 63426
+        },
+        {
+          "measure_unixtime": 1627903224,
+          "measure": 7,
+          "measure_accumulated": 63433
+        },
+        {
+          "measure_unixtime": 1627903524,
+          "measure": 6,
+          "measure_accumulated": 63439
+        },
+        {
+          "measure_unixtime": 1627904124,
+          "measure": 13,
+          "measure_accumulated": 63452
+        },
+        {
+          "measure_unixtime": 1627904424,
+          "measure": 6,
+          "measure_accumulated": 63458
+        },
+        {
+          "measure_unixtime": 1627904724,
+          "measure": 6,
+          "measure_accumulated": 63464
+        },
+        {
+          "measure_unixtime": 1627905024,
+          "measure": 3,
+          "measure_accumulated": 63467
+        },
+        {
+          "measure_unixtime": 1627905624,
+          "measure": 7,
+          "measure_accumulated": 63474
+        },
+        {
+          "measure_unixtime": 1627905924,
+          "measure": 3,
+          "measure_accumulated": 63477
+        },
+        {
+          "measure_unixtime": 1627906224,
+          "measure": 4,
+          "measure_accumulated": 63481
+        },
+        {
+          "measure_unixtime": 1627907424,
+          "measure": 13,
+          "measure_accumulated": 63494
+        },
+        {
+          "measure_unixtime": 1627907724,
+          "measure": 3,
+          "measure_accumulated": 63497
+        },
+        {
+          "measure_unixtime": 1627908024,
+          "measure": 4,
+          "measure_accumulated": 63501
+        },
+        {
+          "measure_unixtime": 1627908324,
+          "measure": 3,
+          "measure_accumulated": 63504
+        },
+        {
+          "measure_unixtime": 1627908624,
+          "measure": 3,
+          "measure_accumulated": 63507
+        },
+        {
+          "measure_unixtime": 1627909224,
+          "measure": 7,
+          "measure_accumulated": 63514
+        },
+        {
+          "measure_unixtime": 1627909524,
+          "measure": 4,
+          "measure_accumulated": 63518
+        },
+        {
+          "measure_unixtime": 1627909824,
+          "measure": 3,
+          "measure_accumulated": 63521
+        },
+        {
+          "measure_unixtime": 1627910124,
+          "measure": 4,
+          "measure_accumulated": 63525
+        },
+        {
+          "measure_unixtime": 1627910424,
+          "measure": 3,
+          "measure_accumulated": 63528
+        },
+        {
+          "measure_unixtime": 1627910724,
+          "measure": 3,
+          "measure_accumulated": 63531
+        },
+        {
+          "measure_unixtime": 1627911024,
+          "measure": 3,
+          "measure_accumulated": 63534
+        },
+        {
+          "measure_unixtime": 1627911324,
+          "measure": 4,
+          "measure_accumulated": 63538
+        },
+        {
+          "measure_unixtime": 1627911624,
+          "measure": 4,
+          "measure_accumulated": 63542
+        },
+        {
+          "measure_unixtime": 1627912224,
+          "measure": 6,
+          "measure_accumulated": 63548
+        },
+        {
+          "measure_unixtime": 1627912524,
+          "measure": 3,
+          "measure_accumulated": 63551
+        },
+        {
+          "measure_unixtime": 1627912824,
+          "measure": 4,
+          "measure_accumulated": 63555
+        },
+        {
+          "measure_unixtime": 1627913424,
+          "measure": 7,
+          "measure_accumulated": 63562
+        },
+        {
+          "measure_unixtime": 1627913724,
+          "measure": 3,
+          "measure_accumulated": 63565
+        },
+        {
+          "measure_unixtime": 1627914024,
+          "measure": 4,
+          "measure_accumulated": 63569
+        },
+        {
+          "measure_unixtime": 1627914324,
+          "measure": 3,
+          "measure_accumulated": 63572
+        },
+        {
+          "measure_unixtime": 1627914624,
+          "measure": 3,
+          "measure_accumulated": 63575
+        },
+        {
+          "measure_unixtime": 1627914924,
+          "measure": 4,
+          "measure_accumulated": 63579
+        },
+        {
+          "measure_unixtime": 1627915224,
+          "measure": 3,
+          "measure_accumulated": 63582
+        },
+        {
+          "measure_unixtime": 1627915524,
+          "measure": 3,
+          "measure_accumulated": 63585
+        },
+        {
+          "measure_unixtime": 1627916124,
+          "measure": 6,
+          "measure_accumulated": 63591
+        },
+        {
+          "measure_unixtime": 1627916724,
+          "measure": 6,
+          "measure_accumulated": 63597
+        },
+        {
+          "measure_unixtime": 1627917024,
+          "measure": 3,
+          "measure_accumulated": 63600
+        },
+        {
+          "measure_unixtime": 1627917324,
+          "measure": 3,
+          "measure_accumulated": 63603
+        },
+        {
+          "measure_unixtime": 1627918224,
+          "measure": 10,
+          "measure_accumulated": 63613
+        },
+        {
+          "measure_unixtime": 1627918524,
+          "measure": 3,
+          "measure_accumulated": 63616
+        },
+        {
+          "measure_unixtime": 1627919124,
+          "measure": 10,
+          "measure_accumulated": 63626
+        },
+        {
+          "measure_unixtime": 1627919424,
+          "measure": 6,
+          "measure_accumulated": 63632
+        },
+        {
+          "measure_unixtime": 1627920024,
+          "measure": 13,
+          "measure_accumulated": 63645
+        },
+        {
+          "measure_unixtime": 1627920324,
+          "measure": 7,
+          "measure_accumulated": 63652
+        },
+        {
+          "measure_unixtime": 1627920624,
+          "measure": 4,
+          "measure_accumulated": 63656
+        },
+        {
+          "measure_unixtime": 1627920924,
+          "measure": 3,
+          "measure_accumulated": 63659
+        },
+        {
+          "measure_unixtime": 1627921224,
+          "measure": 3,
+          "measure_accumulated": 63662
+        },
+        {
+          "measure_unixtime": 1627921524,
+          "measure": 3,
+          "measure_accumulated": 63665
+        },
+        {
+          "measure_unixtime": 1627922124,
+          "measure": 7,
+          "measure_accumulated": 63672
+        },
+        {
+          "measure_unixtime": 1627922424,
+          "measure": 2,
+          "measure_accumulated": 63674
+        },
+        {
+          "measure_unixtime": 1627922724,
+          "measure": 3,
+          "measure_accumulated": 63677
+        },
+        {
+          "measure_unixtime": 1627923024,
+          "measure": 3,
+          "measure_accumulated": 63680
+        },
+        {
+          "measure_unixtime": 1627923324,
+          "measure": 3,
+          "measure_accumulated": 63683
+        },
+        {
+          "measure_unixtime": 1627923624,
+          "measure": 3,
+          "measure_accumulated": 63686
+        },
+        {
+          "measure_unixtime": 1627923924,
+          "measure": 3,
+          "measure_accumulated": 63689
+        },
+        {
+          "measure_unixtime": 1627924224,
+          "measure": 3,
+          "measure_accumulated": 63692
+        },
+        {
+          "measure_unixtime": 1627924524,
+          "measure": 6,
+          "measure_accumulated": 63698
+        },
+        {
+          "measure_unixtime": 1627924824,
+          "measure": 7,
+          "measure_accumulated": 63705
+        },
+        {
+          "measure_unixtime": 1627925124,
+          "measure": 6,
+          "measure_accumulated": 63711
+        },
+        {
+          "measure_unixtime": 1627925424,
+          "measure": 7,
+          "measure_accumulated": 63718
+        },
+        {
+          "measure_unixtime": 1627925724,
+          "measure": 6,
+          "measure_accumulated": 63724
+        },
+        {
+          "measure_unixtime": 1627926024,
+          "measure": 6,
+          "measure_accumulated": 63730
+        },
+        {
+          "measure_unixtime": 1627926324,
+          "measure": 7,
+          "measure_accumulated": 63737
+        },
+        {
+          "measure_unixtime": 1627926924,
+          "measure": 13,
+          "measure_accumulated": 63750
+        },
+        {
+          "measure_unixtime": 1627927224,
+          "measure": 6,
+          "measure_accumulated": 63756
+        },
+        {
+          "measure_unixtime": 1627927524,
+          "measure": 7,
+          "measure_accumulated": 63763
+        },
+        {
+          "measure_unixtime": 1627927824,
+          "measure": 6,
+          "measure_accumulated": 63769
+        },
+        {
+          "measure_unixtime": 1627928724,
+          "measure": 19,
+          "measure_accumulated": 63788
+        },
+        {
+          "measure_unixtime": 1627929024,
+          "measure": 6,
+          "measure_accumulated": 63794
+        },
+        {
+          "measure_unixtime": 1627929324,
+          "measure": 6,
+          "measure_accumulated": 63800
+        },
+        {
+          "measure_unixtime": 1627929624,
+          "measure": 6,
+          "measure_accumulated": 63806
+        },
+        {
+          "measure_unixtime": 1627929924,
+          "measure": 7,
+          "measure_accumulated": 63813
+        },
+        {
+          "measure_unixtime": 1627930524,
+          "measure": 12,
+          "measure_accumulated": 63825
+        },
+        {
+          "measure_unixtime": 1627930824,
+          "measure": 7,
+          "measure_accumulated": 63832
+        },
+        {
+          "measure_unixtime": 1627931124,
+          "measure": 6,
+          "measure_accumulated": 63838
+        },
+        {
+          "measure_unixtime": 1627931424,
+          "measure": 6,
+          "measure_accumulated": 63844
+        },
+        {
+          "measure_unixtime": 1627932024,
+          "measure": 13,
+          "measure_accumulated": 63857
+        },
+        {
+          "measure_unixtime": 1627932624,
+          "measure": 13,
+          "measure_accumulated": 63870
+        },
+        {
+          "measure_unixtime": 1627932924,
+          "measure": 6,
+          "measure_accumulated": 63876
+        },
+        {
+          "measure_unixtime": 1627933224,
+          "measure": 6,
+          "measure_accumulated": 63882
+        },
+        {
+          "measure_unixtime": 1627933524,
+          "measure": 6,
+          "measure_accumulated": 63888
+        },
+        {
+          "measure_unixtime": 1627933824,
+          "measure": 6,
+          "measure_accumulated": 63894
+        },
+        {
+          "measure_unixtime": 1627934124,
+          "measure": 6,
+          "measure_accumulated": 63900
+        },
+        {
+          "measure_unixtime": 1627935024,
+          "measure": 10,
+          "measure_accumulated": 63910
+        },
+        {
+          "measure_unixtime": 1627935324,
+          "measure": 4,
+          "measure_accumulated": 63914
+        },
+        {
+          "measure_unixtime": 1627935624,
+          "measure": 6,
+          "measure_accumulated": 63920
+        },
+        {
+          "measure_unixtime": 1627935924,
+          "measure": 6,
+          "measure_accumulated": 63926
+        },
+        {
+          "measure_unixtime": 1627936224,
+          "measure": 7,
+          "measure_accumulated": 63933
+        },
+        {
+          "measure_unixtime": 1627936524,
+          "measure": 6,
+          "measure_accumulated": 63939
+        },
+        {
+          "measure_unixtime": 1627937124,
+          "measure": 13,
+          "measure_accumulated": 63952
+        },
+        {
+          "measure_unixtime": 1627937424,
+          "measure": 6,
+          "measure_accumulated": 63958
+        },
+        {
+          "measure_unixtime": 1627937724,
+          "measure": 6,
+          "measure_accumulated": 63964
+        },
+        {
+          "measure_unixtime": 1627938024,
+          "measure": 7,
+          "measure_accumulated": 63971
+        },
+        {
+          "measure_unixtime": 1627938624,
+          "measure": 12,
+          "measure_accumulated": 63983
+        },
+        {
+          "measure_unixtime": 1627939224,
+          "measure": 13,
+          "measure_accumulated": 63996
+        },
+        {
+          "measure_unixtime": 1627939524,
+          "measure": 6,
+          "measure_accumulated": 64002
+        },
+        {
+          "measure_unixtime": 1627939824,
+          "measure": 6,
+          "measure_accumulated": 64008
+        },
+        {
+          "measure_unixtime": 1627940124,
+          "measure": 6,
+          "measure_accumulated": 64014
+        },
+        {
+          "measure_unixtime": 1627940724,
+          "measure": 13,
+          "measure_accumulated": 64027
+        },
+        {
+          "measure_unixtime": 1627941024,
+          "measure": 7,
+          "measure_accumulated": 64034
+        },
+        {
+          "measure_unixtime": 1627941324,
+          "measure": 6,
+          "measure_accumulated": 64040
+        },
+        {
+          "measure_unixtime": 1627941624,
+          "measure": 7,
+          "measure_accumulated": 64047
+        },
+        {
+          "measure_unixtime": 1627942224,
+          "measure": 12,
+          "measure_accumulated": 64059
+        },
+        {
+          "measure_unixtime": 1627942524,
+          "measure": 7,
+          "measure_accumulated": 64066
+        },
+        {
+          "measure_unixtime": 1627942824,
+          "measure": 6,
+          "measure_accumulated": 64072
+        },
+        {
+          "measure_unixtime": 1627943424,
+          "measure": 13,
+          "measure_accumulated": 64085
+        },
+        {
+          "measure_unixtime": 1627943724,
+          "measure": 4,
+          "measure_accumulated": 64089
+        },
+        {
+          "measure_unixtime": 1627944324,
+          "measure": 8,
+          "measure_accumulated": 64097
+        },
+        {
+          "measure_unixtime": 1627944624,
+          "measure": 9,
+          "measure_accumulated": 64106
+        },
+        {
+          "measure_unixtime": 1627944924,
+          "measure": 9,
+          "measure_accumulated": 64115
+        },
+        {
+          "measure_unixtime": 1627945224,
+          "measure": 8,
+          "measure_accumulated": 64123
+        },
+        {
+          "measure_unixtime": 1627945524,
+          "measure": 9,
+          "measure_accumulated": 64132
+        },
+        {
+          "measure_unixtime": 1627945824,
+          "measure": 9,
+          "measure_accumulated": 64141
+        },
+        {
+          "measure_unixtime": 1627947024,
+          "measure": 26,
+          "measure_accumulated": 64167
+        },
+        {
+          "measure_unixtime": 1627947624,
+          "measure": 13,
+          "measure_accumulated": 64180
+        },
+        {
+          "measure_unixtime": 1627948224,
+          "measure": 13,
+          "measure_accumulated": 64193
+        },
+        {
+          "measure_unixtime": 1627948524,
+          "measure": 6,
+          "measure_accumulated": 64199
+        },
+        {
+          "measure_unixtime": 1627948824,
+          "measure": 7,
+          "measure_accumulated": 64206
+        },
+        {
+          "measure_unixtime": 1627949424,
+          "measure": 12,
+          "measure_accumulated": 64218
+        },
+        {
+          "measure_unixtime": 1627949724,
+          "measure": 7,
+          "measure_accumulated": 64225
+        },
+        {
+          "measure_unixtime": 1627950024,
+          "measure": 6,
+          "measure_accumulated": 64231
+        },
+        {
+          "measure_unixtime": 1627950324,
+          "measure": 6,
+          "measure_accumulated": 64237
+        },
+        {
+          "measure_unixtime": 1627951224,
+          "measure": 19,
+          "measure_accumulated": 64256
+        },
+        {
+          "measure_unixtime": 1627951524,
+          "measure": 7,
+          "measure_accumulated": 64263
+        },
+        {
+          "measure_unixtime": 1627951824,
+          "measure": 6,
+          "measure_accumulated": 64269
+        },
+        {
+          "measure_unixtime": 1627952124,
+          "measure": 6,
+          "measure_accumulated": 64275
+        },
+        {
+          "measure_unixtime": 1627952424,
+          "measure": 7,
+          "measure_accumulated": 64282
+        },
+        {
+          "measure_unixtime": 1627952724,
+          "measure": 6,
+          "measure_accumulated": 64288
+        },
+        {
+          "measure_unixtime": 1627953024,
+          "measure": 6,
+          "measure_accumulated": 64294
+        },
+        {
+          "measure_unixtime": 1627953324,
+          "measure": 6,
+          "measure_accumulated": 64300
+        },
+        {
+          "measure_unixtime": 1627953624,
+          "measure": 6,
+          "measure_accumulated": 64306
+        },
+        {
+          "measure_unixtime": 1627954224,
+          "measure": 13,
+          "measure_accumulated": 64319
+        },
+        {
+          "measure_unixtime": 1627954524,
+          "measure": 6,
+          "measure_accumulated": 64325
+        },
+        {
+          "measure_unixtime": 1627954824,
+          "measure": 6,
+          "measure_accumulated": 64331
+        },
+        {
+          "measure_unixtime": 1627955124,
+          "measure": 4,
+          "measure_accumulated": 64335
+        },
+        {
+          "measure_unixtime": 1627955424,
+          "measure": 6,
+          "measure_accumulated": 64341
+        },
+        {
+          "measure_unixtime": 1627955724,
+          "measure": 6,
+          "measure_accumulated": 64347
+        },
+        {
+          "measure_unixtime": 1627956024,
+          "measure": 7,
+          "measure_accumulated": 64354
+        },
+        {
+          "measure_unixtime": 1627956324,
+          "measure": 6,
+          "measure_accumulated": 64360
+        },
+        {
+          "measure_unixtime": 1627956624,
+          "measure": 7,
+          "measure_accumulated": 64367
+        },
+        {
+          "measure_unixtime": 1627956924,
+          "measure": 6,
+          "measure_accumulated": 64373
+        },
+        {
+          "measure_unixtime": 1627957224,
+          "measure": 6,
+          "measure_accumulated": 64379
+        },
+        {
+          "measure_unixtime": 1627957524,
+          "measure": 7,
+          "measure_accumulated": 64386
+        },
+        {
+          "measure_unixtime": 1627957824,
+          "measure": 6,
+          "measure_accumulated": 64392
+        },
+        {
+          "measure_unixtime": 1627958124,
+          "measure": 6,
+          "measure_accumulated": 64398
+        },
+        {
+          "measure_unixtime": 1627958424,
+          "measure": 6,
+          "measure_accumulated": 64404
+        },
+        {
+          "measure_unixtime": 1627958724,
+          "measure": 7,
+          "measure_accumulated": 64411
+        },
+        {
+          "measure_unixtime": 1627959024,
+          "measure": 5,
+          "measure_accumulated": 64416
+        },
+        {
+          "measure_unixtime": 1627959624,
+          "measure": 6,
+          "measure_accumulated": 64422
+        },
+        {
+          "measure_unixtime": 1627959924,
+          "measure": 4,
+          "measure_accumulated": 64426
+        },
+        {
+          "measure_unixtime": 1627960224,
+          "measure": 3,
+          "measure_accumulated": 64429
+        },
+        {
+          "measure_unixtime": 1627960524,
+          "measure": 3,
+          "measure_accumulated": 64432
+        },
+        {
+          "measure_unixtime": 1627960824,
+          "measure": 3,
+          "measure_accumulated": 64435
+        },
+        {
+          "measure_unixtime": 1627961124,
+          "measure": 3,
+          "measure_accumulated": 64438
+        },
+        {
+          "measure_unixtime": 1627961424,
+          "measure": 3,
+          "measure_accumulated": 64441
+        },
+        {
+          "measure_unixtime": 1627961724,
+          "measure": 4,
+          "measure_accumulated": 64445
+        },
+        {
+          "measure_unixtime": 1627962324,
+          "measure": 6,
+          "measure_accumulated": 64451
+        },
+        {
+          "measure_unixtime": 1627962624,
+          "measure": 3,
+          "measure_accumulated": 64454
+        },
+        {
+          "measure_unixtime": 1627963224,
+          "measure": 7,
+          "measure_accumulated": 64461
+        },
+        {
+          "measure_unixtime": 1627963524,
+          "measure": 3,
+          "measure_accumulated": 64464
+        },
+        {
+          "measure_unixtime": 1627963824,
+          "measure": 7,
+          "measure_accumulated": 64471
+        },
+        {
+          "measure_unixtime": 1627964124,
+          "measure": 6,
+          "measure_accumulated": 64477
+        },
+        {
+          "measure_unixtime": 1627964424,
+          "measure": 6,
+          "measure_accumulated": 64483
+        },
+        {
+          "measure_unixtime": 1627964724,
+          "measure": 7,
+          "measure_accumulated": 64490
+        },
+        {
+          "measure_unixtime": 1627965324,
+          "measure": 13,
+          "measure_accumulated": 64503
+        },
+        {
+          "measure_unixtime": 1627965624,
+          "measure": 6,
+          "measure_accumulated": 64509
+        },
+        {
+          "measure_unixtime": 1627965924,
+          "measure": 6,
+          "measure_accumulated": 64515
+        },
+        {
+          "measure_unixtime": 1627966224,
+          "measure": 6,
+          "measure_accumulated": 64521
+        },
+        {
+          "measure_unixtime": 1627966524,
+          "measure": 5,
+          "measure_accumulated": 64526
+        },
+        {
+          "measure_unixtime": 1627966824,
+          "measure": 3,
+          "measure_accumulated": 64529
+        },
+        {
+          "measure_unixtime": 1627967424,
+          "measure": 7,
+          "measure_accumulated": 64536
+        },
+        {
+          "measure_unixtime": 1627967724,
+          "measure": 3,
+          "measure_accumulated": 64539
+        },
+        {
+          "measure_unixtime": 1627968024,
+          "measure": 3,
+          "measure_accumulated": 64542
+        },
+        {
+          "measure_unixtime": 1627968324,
+          "measure": 3,
+          "measure_accumulated": 64545
+        },
+        {
+          "measure_unixtime": 1627968624,
+          "measure": 3,
+          "measure_accumulated": 64548
+        },
+        {
+          "measure_unixtime": 1627969524,
+          "measure": 10,
+          "measure_accumulated": 64558
+        },
+        {
+          "measure_unixtime": 1627969824,
+          "measure": 3,
+          "measure_accumulated": 64561
+        },
+        {
+          "measure_unixtime": 1627970124,
+          "measure": 3,
+          "measure_accumulated": 64564
+        },
+        {
+          "measure_unixtime": 1627970424,
+          "measure": 3,
+          "measure_accumulated": 64567
+        },
+        {
+          "measure_unixtime": 1627970724,
+          "measure": 4,
+          "measure_accumulated": 64571
+        },
+        {
+          "measure_unixtime": 1627971024,
+          "measure": 3,
+          "measure_accumulated": 64574
+        },
+        {
+          "measure_unixtime": 1627971324,
+          "measure": 3,
+          "measure_accumulated": 64577
+        },
+        {
+          "measure_unixtime": 1627971624,
+          "measure": 3,
+          "measure_accumulated": 64580
+        },
+        {
+          "measure_unixtime": 1627971924,
+          "measure": 3,
+          "measure_accumulated": 64583
+        },
+        {
+          "measure_unixtime": 1627972224,
+          "measure": 4,
+          "measure_accumulated": 64587
+        },
+        {
+          "measure_unixtime": 1627972524,
+          "measure": 3,
+          "measure_accumulated": 64590
+        },
+        {
+          "measure_unixtime": 1627973124,
+          "measure": 7,
+          "measure_accumulated": 64597
+        },
+        {
+          "measure_unixtime": 1627973424,
+          "measure": 6,
+          "measure_accumulated": 64603
+        },
+        {
+          "measure_unixtime": 1627973724,
+          "measure": 6,
+          "measure_accumulated": 64609
+        },
+        {
+          "measure_unixtime": 1627974324,
+          "measure": 13,
+          "measure_accumulated": 64622
+        },
+        {
+          "measure_unixtime": 1627974624,
+          "measure": 6,
+          "measure_accumulated": 64628
+        },
+        {
+          "measure_unixtime": 1627974924,
+          "measure": 7,
+          "measure_accumulated": 64635
+        },
+        {
+          "measure_unixtime": 1627975224,
+          "measure": 6,
+          "measure_accumulated": 64641
+        },
+        {
+          "measure_unixtime": 1627975524,
+          "measure": 4,
+          "measure_accumulated": 64645
+        },
+        {
+          "measure_unixtime": 1627976424,
+          "measure": 9,
+          "measure_accumulated": 64654
+        },
+        {
+          "measure_unixtime": 1627976724,
+          "measure": 4,
+          "measure_accumulated": 64658
+        },
+        {
+          "measure_unixtime": 1627977024,
+          "measure": 3,
+          "measure_accumulated": 64661
+        },
+        {
+          "measure_unixtime": 1627977324,
+          "measure": 3,
+          "measure_accumulated": 64664
+        },
+        {
+          "measure_unixtime": 1627977624,
+          "measure": 3,
+          "measure_accumulated": 64667
+        },
+        {
+          "measure_unixtime": 1627977924,
+          "measure": 3,
+          "measure_accumulated": 64670
+        },
+        {
+          "measure_unixtime": 1627978224,
+          "measure": 4,
+          "measure_accumulated": 64674
+        },
+        {
+          "measure_unixtime": 1627978524,
+          "measure": 3,
+          "measure_accumulated": 64677
+        },
+        {
+          "measure_unixtime": 1627978824,
+          "measure": 3,
+          "measure_accumulated": 64680
+        },
+        {
+          "measure_unixtime": 1627979124,
+          "measure": 3,
+          "measure_accumulated": 64683
+        },
+        {
+          "measure_unixtime": 1627979424,
+          "measure": 3,
+          "measure_accumulated": 64686
+        },
+        {
+          "measure_unixtime": 1627979724,
+          "measure": 3,
+          "measure_accumulated": 64689
+        },
+        {
+          "measure_unixtime": 1627980024,
+          "measure": 3,
+          "measure_accumulated": 64692
+        },
+        {
+          "measure_unixtime": 1627980324,
+          "measure": 3,
+          "measure_accumulated": 64695
+        },
+        {
+          "measure_unixtime": 1627980624,
+          "measure": 3,
+          "measure_accumulated": 64698
+        },
+        {
+          "measure_unixtime": 1627980924,
+          "measure": 3,
+          "measure_accumulated": 64701
+        },
+        {
+          "measure_unixtime": 1627981224,
+          "measure": 4,
+          "measure_accumulated": 64705
+        },
+        {
+          "measure_unixtime": 1627981524,
+          "measure": 3,
+          "measure_accumulated": 64708
+        },
+        {
+          "measure_unixtime": 1627981824,
+          "measure": 3,
+          "measure_accumulated": 64711
+        },
+        {
+          "measure_unixtime": 1627982124,
+          "measure": 3,
+          "measure_accumulated": 64714
+        },
+        {
+          "measure_unixtime": 1627983324,
+          "measure": 12,
+          "measure_accumulated": 64726
+        },
+        {
+          "measure_unixtime": 1627984224,
+          "measure": 14,
+          "measure_accumulated": 64740
+        },
+        {
+          "measure_unixtime": 1627984524,
+          "measure": 7,
+          "measure_accumulated": 64747
+        },
+        {
+          "measure_unixtime": 1627984824,
+          "measure": 6,
+          "measure_accumulated": 64753
+        },
+        {
+          "measure_unixtime": 1627985124,
+          "measure": 6,
+          "measure_accumulated": 64759
+        },
+        {
+          "measure_unixtime": 1627985724,
+          "measure": 9,
+          "measure_accumulated": 64768
+        },
+        {
+          "measure_unixtime": 1627986024,
+          "measure": 4,
+          "measure_accumulated": 64772
+        },
+        {
+          "measure_unixtime": 1627986624,
+          "measure": 6,
+          "measure_accumulated": 64778
+        },
+        {
+          "measure_unixtime": 1627986924,
+          "measure": 4,
+          "measure_accumulated": 64782
+        },
+        {
+          "measure_unixtime": 1627987224,
+          "measure": 3,
+          "measure_accumulated": 64785
+        },
+        {
+          "measure_unixtime": 1627987524,
+          "measure": 3,
+          "measure_accumulated": 64788
+        },
+        {
+          "measure_unixtime": 1627987824,
+          "measure": 3,
+          "measure_accumulated": 64791
+        },
+        {
+          "measure_unixtime": 1627988124,
+          "measure": 4,
+          "measure_accumulated": 64795
+        },
+        {
+          "measure_unixtime": 1627988424,
+          "measure": 3,
+          "measure_accumulated": 64798
+        },
+        {
+          "measure_unixtime": 1627989024,
+          "measure": 7,
+          "measure_accumulated": 64805
+        },
+        {
+          "measure_unixtime": 1627989324,
+          "measure": 3,
+          "measure_accumulated": 64808
+        },
+        {
+          "measure_unixtime": 1627989624,
+          "measure": 3,
+          "measure_accumulated": 64811
+        },
+        {
+          "measure_unixtime": 1627990224,
+          "measure": 7,
+          "measure_accumulated": 64818
+        },
+        {
+          "measure_unixtime": 1627990524,
+          "measure": 3,
+          "measure_accumulated": 64821
+        },
+        {
+          "measure_unixtime": 1627990824,
+          "measure": 3,
+          "measure_accumulated": 64824
+        },
+        {
+          "measure_unixtime": 1627991124,
+          "measure": 4,
+          "measure_accumulated": 64828
+        },
+        {
+          "measure_unixtime": 1627991424,
+          "measure": 3,
+          "measure_accumulated": 64831
+        },
+        {
+          "measure_unixtime": 1627991724,
+          "measure": 3,
+          "measure_accumulated": 64834
+        },
+        {
+          "measure_unixtime": 1627992324,
+          "measure": 6,
+          "measure_accumulated": 64840
+        },
+        {
+          "measure_unixtime": 1627993224,
+          "measure": 26,
+          "measure_accumulated": 64866
+        },
+        {
+          "measure_unixtime": 1627993524,
+          "measure": 9,
+          "measure_accumulated": 64875
+        },
+        {
+          "measure_unixtime": 1627993824,
+          "measure": 9,
+          "measure_accumulated": 64884
+        },
+        {
+          "measure_unixtime": 1627994124,
+          "measure": 8,
+          "measure_accumulated": 64892
+        },
+        {
+          "measure_unixtime": 1627994424,
+          "measure": 9,
+          "measure_accumulated": 64901
+        },
+        {
+          "measure_unixtime": 1627994724,
+          "measure": 4,
+          "measure_accumulated": 64905
+        },
+        {
+          "measure_unixtime": 1627995024,
+          "measure": 6,
+          "measure_accumulated": 64911
+        },
+        {
+          "measure_unixtime": 1627995324,
+          "measure": 7,
+          "measure_accumulated": 64918
+        },
+        {
+          "measure_unixtime": 1627995624,
+          "measure": 6,
+          "measure_accumulated": 64924
+        },
+        {
+          "measure_unixtime": 1627995924,
+          "measure": 7,
+          "measure_accumulated": 64931
+        },
+        {
+          "measure_unixtime": 1627996224,
+          "measure": 6,
+          "measure_accumulated": 64937
+        },
+        {
+          "measure_unixtime": 1627997124,
+          "measure": 20,
+          "measure_accumulated": 64957
+        },
+        {
+          "measure_unixtime": 1627997424,
+          "measure": 6,
+          "measure_accumulated": 64963
+        },
+        {
+          "measure_unixtime": 1627997724,
+          "measure": 6,
+          "measure_accumulated": 64969
+        },
+        {
+          "measure_unixtime": 1627998024,
+          "measure": 7,
+          "measure_accumulated": 64976
+        },
+        {
+          "measure_unixtime": 1627998624,
+          "measure": 8,
+          "measure_accumulated": 64984
+        },
+        {
+          "measure_unixtime": 1627999224,
+          "measure": 6,
+          "measure_accumulated": 64990
+        },
+        {
+          "measure_unixtime": 1627999524,
+          "measure": 3,
+          "measure_accumulated": 64993
+        },
+        {
+          "measure_unixtime": 1627999824,
+          "measure": 3,
+          "measure_accumulated": 64996
+        },
+        {
+          "measure_unixtime": 1628000124,
+          "measure": 4,
+          "measure_accumulated": 65000
+        },
+        {
+          "measure_unixtime": 1628000424,
+          "measure": 6,
+          "measure_accumulated": 65006
+        },
+        {
+          "measure_unixtime": 1628000724,
+          "measure": 7,
+          "measure_accumulated": 65013
+        },
+        {
+          "measure_unixtime": 1628001024,
+          "measure": 7,
+          "measure_accumulated": 65020
+        },
+        {
+          "measure_unixtime": 1628001324,
+          "measure": 6,
+          "measure_accumulated": 65026
+        },
+        {
+          "measure_unixtime": 1628001624,
+          "measure": 7,
+          "measure_accumulated": 65033
+        },
+        {
+          "measure_unixtime": 1628001924,
+          "measure": 6,
+          "measure_accumulated": 65039
+        },
+        {
+          "measure_unixtime": 1628002224,
+          "measure": 7,
+          "measure_accumulated": 65046
+        },
+        {
+          "measure_unixtime": 1628002524,
+          "measure": 6,
+          "measure_accumulated": 65052
+        },
+        {
+          "measure_unixtime": 1628002824,
+          "measure": 6,
+          "measure_accumulated": 65058
+        },
+        {
+          "measure_unixtime": 1628003124,
+          "measure": 7,
+          "measure_accumulated": 65065
+        },
+        {
+          "measure_unixtime": 1628003424,
+          "measure": 6,
+          "measure_accumulated": 65071
+        },
+        {
+          "measure_unixtime": 1628004324,
+          "measure": 12,
+          "measure_accumulated": 65083
+        },
+        {
+          "measure_unixtime": 1628004624,
+          "measure": 3,
+          "measure_accumulated": 65086
+        },
+        {
+          "measure_unixtime": 1628004924,
+          "measure": 3,
+          "measure_accumulated": 65089
+        },
+        {
+          "measure_unixtime": 1628005224,
+          "measure": 4,
+          "measure_accumulated": 65093
+        },
+        {
+          "measure_unixtime": 1628005524,
+          "measure": 3,
+          "measure_accumulated": 65096
+        },
+        {
+          "measure_unixtime": 1628005824,
+          "measure": 4,
+          "measure_accumulated": 65100
+        },
+        {
+          "measure_unixtime": 1628006424,
+          "measure": 6,
+          "measure_accumulated": 65106
+        },
+        {
+          "measure_unixtime": 1628006724,
+          "measure": 3,
+          "measure_accumulated": 65109
+        },
+        {
+          "measure_unixtime": 1628007024,
+          "measure": 3,
+          "measure_accumulated": 65112
+        },
+        {
+          "measure_unixtime": 1628007324,
+          "measure": 3,
+          "measure_accumulated": 65115
+        },
+        {
+          "measure_unixtime": 1628007624,
+          "measure": 3,
+          "measure_accumulated": 65118
+        },
+        {
+          "measure_unixtime": 1628007924,
+          "measure": 3,
+          "measure_accumulated": 65121
+        },
+        {
+          "measure_unixtime": 1628008224,
+          "measure": 3,
+          "measure_accumulated": 65124
+        },
+        {
+          "measure_unixtime": 1628008524,
+          "measure": 2,
+          "measure_accumulated": 65126
+        },
+        {
+          "measure_unixtime": 1628008824,
+          "measure": 3,
+          "measure_accumulated": 65129
+        },
+        {
+          "measure_unixtime": 1628009124,
+          "measure": 4,
+          "measure_accumulated": 65133
+        },
+        {
+          "measure_unixtime": 1628009424,
+          "measure": 3,
+          "measure_accumulated": 65136
+        },
+        {
+          "measure_unixtime": 1628009724,
+          "measure": 3,
+          "measure_accumulated": 65139
+        },
+        {
+          "measure_unixtime": 1628010624,
+          "measure": 15,
+          "measure_accumulated": 65154
+        },
+        {
+          "measure_unixtime": 1628011224,
+          "measure": 13,
+          "measure_accumulated": 65167
+        },
+        {
+          "measure_unixtime": 1628011524,
+          "measure": 7,
+          "measure_accumulated": 65174
+        },
+        {
+          "measure_unixtime": 1628011824,
+          "measure": 6,
+          "measure_accumulated": 65180
+        },
+        {
+          "measure_unixtime": 1628012124,
+          "measure": 7,
+          "measure_accumulated": 65187
+        },
+        {
+          "measure_unixtime": 1628012724,
+          "measure": 12,
+          "measure_accumulated": 65199
+        },
+        {
+          "measure_unixtime": 1628013624,
+          "measure": 9,
+          "measure_accumulated": 65208
+        },
+        {
+          "measure_unixtime": 1628013924,
+          "measure": 4,
+          "measure_accumulated": 65212
+        },
+        {
+          "measure_unixtime": 1628014224,
+          "measure": 3,
+          "measure_accumulated": 65215
+        },
+        {
+          "measure_unixtime": 1628014824,
+          "measure": 6,
+          "measure_accumulated": 65221
+        },
+        {
+          "measure_unixtime": 1628015424,
+          "measure": 6,
+          "measure_accumulated": 65227
+        },
+        {
+          "measure_unixtime": 1628015724,
+          "measure": 4,
+          "measure_accumulated": 65231
+        },
+        {
+          "measure_unixtime": 1628016024,
+          "measure": 3,
+          "measure_accumulated": 65234
+        },
+        {
+          "measure_unixtime": 1628016324,
+          "measure": 3,
+          "measure_accumulated": 65237
+        },
+        {
+          "measure_unixtime": 1628016924,
+          "measure": 6,
+          "measure_accumulated": 65243
+        },
+        {
+          "measure_unixtime": 1628017224,
+          "measure": 3,
+          "measure_accumulated": 65246
+        },
+        {
+          "measure_unixtime": 1628017524,
+          "measure": 3,
+          "measure_accumulated": 65249
+        },
+        {
+          "measure_unixtime": 1628018124,
+          "measure": 6,
+          "measure_accumulated": 65255
+        },
+        {
+          "measure_unixtime": 1628018424,
+          "measure": 4,
+          "measure_accumulated": 65259
+        },
+        {
+          "measure_unixtime": 1628018724,
+          "measure": 4,
+          "measure_accumulated": 65263
+        },
+        {
+          "measure_unixtime": 1628019324,
+          "measure": 13,
+          "measure_accumulated": 65276
+        },
+        {
+          "measure_unixtime": 1628019624,
+          "measure": 6,
+          "measure_accumulated": 65282
+        },
+        {
+          "measure_unixtime": 1628019924,
+          "measure": 5,
+          "measure_accumulated": 65287
+        },
+        {
+          "measure_unixtime": 1628020224,
+          "measure": 3,
+          "measure_accumulated": 65290
+        },
+        {
+          "measure_unixtime": 1628020524,
+          "measure": 4,
+          "measure_accumulated": 65294
+        },
+        {
+          "measure_unixtime": 1628020824,
+          "measure": 3,
+          "measure_accumulated": 65297
+        },
+        {
+          "measure_unixtime": 1628021424,
+          "measure": 6,
+          "measure_accumulated": 65303
+        },
+        {
+          "measure_unixtime": 1628021724,
+          "measure": 3,
+          "measure_accumulated": 65306
+        },
+        {
+          "measure_unixtime": 1628022024,
+          "measure": 3,
+          "measure_accumulated": 65309
+        },
+        {
+          "measure_unixtime": 1628022324,
+          "measure": 3,
+          "measure_accumulated": 65312
+        },
+        {
+          "measure_unixtime": 1628022624,
+          "measure": 3,
+          "measure_accumulated": 65315
+        },
+        {
+          "measure_unixtime": 1628023224,
+          "measure": 7,
+          "measure_accumulated": 65322
+        },
+        {
+          "measure_unixtime": 1628023824,
+          "measure": 6,
+          "measure_accumulated": 65328
+        },
+        {
+          "measure_unixtime": 1628024124,
+          "measure": 3,
+          "measure_accumulated": 65331
+        },
+        {
+          "measure_unixtime": 1628024424,
+          "measure": 3,
+          "measure_accumulated": 65334
+        },
+        {
+          "measure_unixtime": 1628024724,
+          "measure": 3,
+          "measure_accumulated": 65337
+        },
+        {
+          "measure_unixtime": 1628025024,
+          "measure": 3,
+          "measure_accumulated": 65340
+        },
+        {
+          "measure_unixtime": 1628025324,
+          "measure": 3,
+          "measure_accumulated": 65343
+        },
+        {
+          "measure_unixtime": 1628026224,
+          "measure": 9,
+          "measure_accumulated": 65352
+        },
+        {
+          "measure_unixtime": 1628026524,
+          "measure": 2,
+          "measure_accumulated": 65354
+        },
+        {
+          "measure_unixtime": 1628026824,
+          "measure": 3,
+          "measure_accumulated": 65357
+        },
+        {
+          "measure_unixtime": 1628027124,
+          "measure": 3,
+          "measure_accumulated": 65360
+        },
+        {
+          "measure_unixtime": 1628027424,
+          "measure": 4,
+          "measure_accumulated": 65364
+        },
+        {
+          "measure_unixtime": 1628027724,
+          "measure": 3,
+          "measure_accumulated": 65367
+        },
+        {
+          "measure_unixtime": 1628028024,
+          "measure": 4,
+          "measure_accumulated": 65371
+        },
+        {
+          "measure_unixtime": 1628028324,
+          "measure": 4,
+          "measure_accumulated": 65375
+        },
+        {
+          "measure_unixtime": 1628028624,
+          "measure": 3,
+          "measure_accumulated": 65378
+        },
+        {
+          "measure_unixtime": 1628029224,
+          "measure": 7,
+          "measure_accumulated": 65385
+        },
+        {
+          "measure_unixtime": 1628029524,
+          "measure": 3,
+          "measure_accumulated": 65388
+        },
+        {
+          "measure_unixtime": 1628029824,
+          "measure": 3,
+          "measure_accumulated": 65391
+        },
+        {
+          "measure_unixtime": 1628030124,
+          "measure": 4,
+          "measure_accumulated": 65395
+        },
+        {
+          "measure_unixtime": 1628030424,
+          "measure": 3,
+          "measure_accumulated": 65398
+        },
+        {
+          "measure_unixtime": 1628030724,
+          "measure": 3,
+          "measure_accumulated": 65401
+        },
+        {
+          "measure_unixtime": 1628031024,
+          "measure": 3,
+          "measure_accumulated": 65404
+        },
+        {
+          "measure_unixtime": 1628031324,
+          "measure": 2,
+          "measure_accumulated": 65406
+        },
+        {
+          "measure_unixtime": 1628031624,
+          "measure": 3,
+          "measure_accumulated": 65409
+        },
+        {
+          "measure_unixtime": 1628031924,
+          "measure": 3,
+          "measure_accumulated": 65412
+        },
+        {
+          "measure_unixtime": 1628032524,
+          "measure": 6,
+          "measure_accumulated": 65418
+        },
+        {
+          "measure_unixtime": 1628032824,
+          "measure": 3,
+          "measure_accumulated": 65421
+        },
+        {
+          "measure_unixtime": 1628033124,
+          "measure": 3,
+          "measure_accumulated": 65424
+        },
+        {
+          "measure_unixtime": 1628033724,
+          "measure": 6,
+          "measure_accumulated": 65430
+        },
+        {
+          "measure_unixtime": 1628034024,
+          "measure": 4,
+          "measure_accumulated": 65434
+        },
+        {
+          "measure_unixtime": 1628034624,
+          "measure": 7,
+          "measure_accumulated": 65441
+        },
+        {
+          "measure_unixtime": 1628034924,
+          "measure": 3,
+          "measure_accumulated": 65444
+        },
+        {
+          "measure_unixtime": 1628035224,
+          "measure": 3,
+          "measure_accumulated": 65447
+        },
+        {
+          "measure_unixtime": 1628035524,
+          "measure": 4,
+          "measure_accumulated": 65451
+        },
+        {
+          "measure_unixtime": 1628035824,
+          "measure": 3,
+          "measure_accumulated": 65454
+        },
+        {
+          "measure_unixtime": 1628036124,
+          "measure": 3,
+          "measure_accumulated": 65457
+        },
+        {
+          "measure_unixtime": 1628036724,
+          "measure": 7,
+          "measure_accumulated": 65464
+        },
+        {
+          "measure_unixtime": 1628037024,
+          "measure": 3,
+          "measure_accumulated": 65467
+        },
+        {
+          "measure_unixtime": 1628037324,
+          "measure": 3,
+          "measure_accumulated": 65470
+        },
+        {
+          "measure_unixtime": 1628037624,
+          "measure": 4,
+          "measure_accumulated": 65474
+        },
+        {
+          "measure_unixtime": 1628037924,
+          "measure": 2,
+          "measure_accumulated": 65476
+        },
+        {
+          "measure_unixtime": 1628038224,
+          "measure": 3,
+          "measure_accumulated": 65479
+        },
+        {
+          "measure_unixtime": 1628038524,
+          "measure": 7,
+          "measure_accumulated": 65486
+        },
+        {
+          "measure_unixtime": 1628038824,
+          "measure": 9,
+          "measure_accumulated": 65495
+        },
+        {
+          "measure_unixtime": 1628039124,
+          "measure": 8,
+          "measure_accumulated": 65503
+        },
+        {
+          "measure_unixtime": 1628039424,
+          "measure": 9,
+          "measure_accumulated": 65512
+        },
+        {
+          "measure_unixtime": 1628039724,
+          "measure": 8,
+          "measure_accumulated": 65520
+        },
+        {
+          "measure_unixtime": 1628040024,
+          "measure": 9,
+          "measure_accumulated": 65529
+        },
+        {
+          "measure_unixtime": 1628040324,
+          "measure": 9,
+          "measure_accumulated": 65538
+        },
+        {
+          "measure_unixtime": 1628040624,
+          "measure": 6,
+          "measure_accumulated": 65544
+        },
+        {
+          "measure_unixtime": 1628040924,
+          "measure": 5,
+          "measure_accumulated": 65549
+        },
+        {
+          "measure_unixtime": 1628041224,
+          "measure": 6,
+          "measure_accumulated": 65555
+        },
+        {
+          "measure_unixtime": 1628041824,
+          "measure": 13,
+          "measure_accumulated": 65568
+        },
+        {
+          "measure_unixtime": 1628042124,
+          "measure": 7,
+          "measure_accumulated": 65575
+        },
+        {
+          "measure_unixtime": 1628042424,
+          "measure": 7,
+          "measure_accumulated": 65582
+        },
+        {
+          "measure_unixtime": 1628042724,
+          "measure": 6,
+          "measure_accumulated": 65588
+        },
+        {
+          "measure_unixtime": 1628043024,
+          "measure": 7,
+          "measure_accumulated": 65595
+        },
+        {
+          "measure_unixtime": 1628043624,
+          "measure": 13,
+          "measure_accumulated": 65608
+        },
+        {
+          "measure_unixtime": 1628043924,
+          "measure": 6,
+          "measure_accumulated": 65614
+        },
+        {
+          "measure_unixtime": 1628044224,
+          "measure": 6,
+          "measure_accumulated": 65620
+        },
+        {
+          "measure_unixtime": 1628044524,
+          "measure": 6,
+          "measure_accumulated": 65626
+        },
+        {
+          "measure_unixtime": 1628044824,
+          "measure": 4,
+          "measure_accumulated": 65630
+        },
+        {
+          "measure_unixtime": 1628045124,
+          "measure": 3,
+          "measure_accumulated": 65633
+        },
+        {
+          "measure_unixtime": 1628045424,
+          "measure": 3,
+          "measure_accumulated": 65636
+        },
+        {
+          "measure_unixtime": 1628045724,
+          "measure": 3,
+          "measure_accumulated": 65639
+        },
+        {
+          "measure_unixtime": 1628046024,
+          "measure": 3,
+          "measure_accumulated": 65642
+        },
+        {
+          "measure_unixtime": 1628046324,
+          "measure": 4,
+          "measure_accumulated": 65646
+        },
+        {
+          "measure_unixtime": 1628046624,
+          "measure": 3,
+          "measure_accumulated": 65649
+        },
+        {
+          "measure_unixtime": 1628046924,
+          "measure": 3,
+          "measure_accumulated": 65652
+        },
+        {
+          "measure_unixtime": 1628047224,
+          "measure": 4,
+          "measure_accumulated": 65656
+        },
+        {
+          "measure_unixtime": 1628047524,
+          "measure": 3,
+          "measure_accumulated": 65659
+        },
+        {
+          "measure_unixtime": 1628047824,
+          "measure": 3,
+          "measure_accumulated": 65662
+        },
+        {
+          "measure_unixtime": 1628048124,
+          "measure": 3,
+          "measure_accumulated": 65665
+        },
+        {
+          "measure_unixtime": 1628048424,
+          "measure": 3,
+          "measure_accumulated": 65668
+        },
+        {
+          "measure_unixtime": 1628048724,
+          "measure": 3,
+          "measure_accumulated": 65671
+        },
+        {
+          "measure_unixtime": 1628049024,
+          "measure": 3,
+          "measure_accumulated": 65674
+        },
+        {
+          "measure_unixtime": 1628049324,
+          "measure": 3,
+          "measure_accumulated": 65677
+        },
+        {
+          "measure_unixtime": 1628049924,
+          "measure": 6,
+          "measure_accumulated": 65683
+        },
+        {
+          "measure_unixtime": 1628050224,
+          "measure": 4,
+          "measure_accumulated": 65687
+        },
+        {
+          "measure_unixtime": 1628050524,
+          "measure": 4,
+          "measure_accumulated": 65691
+        },
+        {
+          "measure_unixtime": 1628050824,
+          "measure": 4,
+          "measure_accumulated": 65695
+        },
+        {
+          "measure_unixtime": 1628051124,
+          "measure": 4,
+          "measure_accumulated": 65699
+        },
+        {
+          "measure_unixtime": 1628051424,
+          "measure": 3,
+          "measure_accumulated": 65702
+        },
+        {
+          "measure_unixtime": 1628051724,
+          "measure": 3,
+          "measure_accumulated": 65705
+        },
+        {
+          "measure_unixtime": 1628052024,
+          "measure": 4,
+          "measure_accumulated": 65709
+        },
+        {
+          "measure_unixtime": 1628052324,
+          "measure": 3,
+          "measure_accumulated": 65712
+        },
+        {
+          "measure_unixtime": 1628052624,
+          "measure": 3,
+          "measure_accumulated": 65715
+        },
+        {
+          "measure_unixtime": 1628052924,
+          "measure": 4,
+          "measure_accumulated": 65719
+        },
+        {
+          "measure_unixtime": 1628053224,
+          "measure": 3,
+          "measure_accumulated": 65722
+        },
+        {
+          "measure_unixtime": 1628053824,
+          "measure": 6,
+          "measure_accumulated": 65728
+        },
+        {
+          "measure_unixtime": 1628054124,
+          "measure": 3,
+          "measure_accumulated": 65731
+        },
+        {
+          "measure_unixtime": 1628054424,
+          "measure": 3,
+          "measure_accumulated": 65734
+        },
+        {
+          "measure_unixtime": 1628054724,
+          "measure": 3,
+          "measure_accumulated": 65737
+        },
+        {
+          "measure_unixtime": 1628055024,
+          "measure": 2,
+          "measure_accumulated": 65739
+        },
+        {
+          "measure_unixtime": 1628055324,
+          "measure": 4,
+          "measure_accumulated": 65743
+        },
+        {
+          "measure_unixtime": 1628055624,
+          "measure": 3,
+          "measure_accumulated": 65746
+        },
+        {
+          "measure_unixtime": 1628056524,
+          "measure": 9,
+          "measure_accumulated": 65755
+        },
+        {
+          "measure_unixtime": 1628057124,
+          "measure": 6,
+          "measure_accumulated": 65761
+        },
+        {
+          "measure_unixtime": 1628057424,
+          "measure": 4,
+          "measure_accumulated": 65765
+        },
+        {
+          "measure_unixtime": 1628057724,
+          "measure": 4,
+          "measure_accumulated": 65769
+        },
+        {
+          "measure_unixtime": 1628058024,
+          "measure": 3,
+          "measure_accumulated": 65772
+        },
+        {
+          "measure_unixtime": 1628058324,
+          "measure": 3,
+          "measure_accumulated": 65775
+        },
+        {
+          "measure_unixtime": 1628058624,
+          "measure": 3,
+          "measure_accumulated": 65778
+        },
+        {
+          "measure_unixtime": 1628058924,
+          "measure": 4,
+          "measure_accumulated": 65782
+        },
+        {
+          "measure_unixtime": 1628059224,
+          "measure": 2,
+          "measure_accumulated": 65784
+        },
+        {
+          "measure_unixtime": 1628059524,
+          "measure": 4,
+          "measure_accumulated": 65788
+        },
+        {
+          "measure_unixtime": 1628059824,
+          "measure": 2,
+          "measure_accumulated": 65790
+        },
+        {
+          "measure_unixtime": 1628060124,
+          "measure": 4,
+          "measure_accumulated": 65794
+        },
+        {
+          "measure_unixtime": 1628060424,
+          "measure": 3,
+          "measure_accumulated": 65797
+        },
+        {
+          "measure_unixtime": 1628061324,
+          "measure": 10,
+          "measure_accumulated": 65807
+        },
+        {
+          "measure_unixtime": 1628061924,
+          "measure": 7,
+          "measure_accumulated": 65814
+        },
+        {
+          "measure_unixtime": 1628062224,
+          "measure": 4,
+          "measure_accumulated": 65818
+        },
+        {
+          "measure_unixtime": 1628062524,
+          "measure": 3,
+          "measure_accumulated": 65821
+        },
+        {
+          "measure_unixtime": 1628062824,
+          "measure": 3,
+          "measure_accumulated": 65824
+        },
+        {
+          "measure_unixtime": 1628063124,
+          "measure": 3,
+          "measure_accumulated": 65827
+        },
+        {
+          "measure_unixtime": 1628063424,
+          "measure": 3,
+          "measure_accumulated": 65830
+        },
+        {
+          "measure_unixtime": 1628063724,
+          "measure": 3,
+          "measure_accumulated": 65833
+        },
+        {
+          "measure_unixtime": 1628064024,
+          "measure": 2,
+          "measure_accumulated": 65835
+        },
+        {
+          "measure_unixtime": 1628064324,
+          "measure": 3,
+          "measure_accumulated": 65838
+        },
+        {
+          "measure_unixtime": 1628064624,
+          "measure": 4,
+          "measure_accumulated": 65842
+        },
+        {
+          "measure_unixtime": 1628064924,
+          "measure": 3,
+          "measure_accumulated": 65845
+        },
+        {
+          "measure_unixtime": 1628065224,
+          "measure": 2,
+          "measure_accumulated": 65847
+        },
+        {
+          "measure_unixtime": 1628065524,
+          "measure": 3,
+          "measure_accumulated": 65850
+        },
+        {
+          "measure_unixtime": 1628065824,
+          "measure": 3,
+          "measure_accumulated": 65853
+        },
+        {
+          "measure_unixtime": 1628066124,
+          "measure": 3,
+          "measure_accumulated": 65856
+        },
+        {
+          "measure_unixtime": 1628066424,
+          "measure": 3,
+          "measure_accumulated": 65859
+        },
+        {
+          "measure_unixtime": 1628066724,
+          "measure": 2,
+          "measure_accumulated": 65861
+        },
+        {
+          "measure_unixtime": 1628067024,
+          "measure": 3,
+          "measure_accumulated": 65864
+        },
+        {
+          "measure_unixtime": 1628067324,
+          "measure": 3,
+          "measure_accumulated": 65867
+        },
+        {
+          "measure_unixtime": 1628068224,
+          "measure": 10,
+          "measure_accumulated": 65877
+        },
+        {
+          "measure_unixtime": 1628068524,
+          "measure": 3,
+          "measure_accumulated": 65880
+        },
+        {
+          "measure_unixtime": 1628069124,
+          "measure": 7,
+          "measure_accumulated": 65887
+        },
+        {
+          "measure_unixtime": 1628069424,
+          "measure": 3,
+          "measure_accumulated": 65890
+        },
+        {
+          "measure_unixtime": 1628069724,
+          "measure": 3,
+          "measure_accumulated": 65893
+        },
+        {
+          "measure_unixtime": 1628070024,
+          "measure": 4,
+          "measure_accumulated": 65897
+        },
+        {
+          "measure_unixtime": 1628071224,
+          "measure": 13,
+          "measure_accumulated": 65910
+        },
+        {
+          "measure_unixtime": 1628071524,
+          "measure": 3,
+          "measure_accumulated": 65913
+        },
+        {
+          "measure_unixtime": 1628072124,
+          "measure": 7,
+          "measure_accumulated": 65920
+        },
+        {
+          "measure_unixtime": 1628072424,
+          "measure": 3,
+          "measure_accumulated": 65923
+        },
+        {
+          "measure_unixtime": 1628072724,
+          "measure": 4,
+          "measure_accumulated": 65927
+        },
+        {
+          "measure_unixtime": 1628073024,
+          "measure": 3,
+          "measure_accumulated": 65930
+        },
+        {
+          "measure_unixtime": 1628073624,
+          "measure": 5,
+          "measure_accumulated": 65935
+        },
+        {
+          "measure_unixtime": 1628073924,
+          "measure": 3,
+          "measure_accumulated": 65938
+        },
+        {
+          "measure_unixtime": 1628074524,
+          "measure": 6,
+          "measure_accumulated": 65944
+        },
+        {
+          "measure_unixtime": 1628074824,
+          "measure": 3,
+          "measure_accumulated": 65947
+        },
+        {
+          "measure_unixtime": 1628075124,
+          "measure": 3,
+          "measure_accumulated": 65950
+        },
+        {
+          "measure_unixtime": 1628075424,
+          "measure": 3,
+          "measure_accumulated": 65953
+        },
+        {
+          "measure_unixtime": 1628075724,
+          "measure": 3,
+          "measure_accumulated": 65956
+        },
+        {
+          "measure_unixtime": 1628076024,
+          "measure": 4,
+          "measure_accumulated": 65960
+        },
+        {
+          "measure_unixtime": 1628076324,
+          "measure": 3,
+          "measure_accumulated": 65963
+        },
+        {
+          "measure_unixtime": 1628076624,
+          "measure": 4,
+          "measure_accumulated": 65967
+        },
+        {
+          "measure_unixtime": 1628076924,
+          "measure": 3,
+          "measure_accumulated": 65970
+        },
+        {
+          "measure_unixtime": 1628077224,
+          "measure": 3,
+          "measure_accumulated": 65973
+        },
+        {
+          "measure_unixtime": 1628077524,
+          "measure": 3,
+          "measure_accumulated": 65976
+        },
+        {
+          "measure_unixtime": 1628077824,
+          "measure": 3,
+          "measure_accumulated": 65979
+        },
+        {
+          "measure_unixtime": 1628078424,
+          "measure": 6,
+          "measure_accumulated": 65985
+        },
+        {
+          "measure_unixtime": 1628078724,
+          "measure": 3,
+          "measure_accumulated": 65988
+        },
+        {
+          "measure_unixtime": 1628079024,
+          "measure": 3,
+          "measure_accumulated": 65991
+        },
+        {
+          "measure_unixtime": 1628079324,
+          "measure": 3,
+          "measure_accumulated": 65994
+        },
+        {
+          "measure_unixtime": 1628079624,
+          "measure": 3,
+          "measure_accumulated": 65997
+        },
+        {
+          "measure_unixtime": 1628079924,
+          "measure": 2,
+          "measure_accumulated": 65999
+        },
+        {
+          "measure_unixtime": 1628080224,
+          "measure": 3,
+          "measure_accumulated": 66002
+        },
+        {
+          "measure_unixtime": 1628080824,
+          "measure": 6,
+          "measure_accumulated": 66008
+        },
+        {
+          "measure_unixtime": 1628081424,
+          "measure": 6,
+          "measure_accumulated": 66014
+        },
+        {
+          "measure_unixtime": 1628081724,
+          "measure": 2,
+          "measure_accumulated": 66016
+        },
+        {
+          "measure_unixtime": 1628082024,
+          "measure": 3,
+          "measure_accumulated": 66019
+        },
+        {
+          "measure_unixtime": 1628082624,
+          "measure": 6,
+          "measure_accumulated": 66025
+        },
+        {
+          "measure_unixtime": 1628083224,
+          "measure": 8,
+          "measure_accumulated": 66033
+        },
+        {
+          "measure_unixtime": 1628083524,
+          "measure": 3,
+          "measure_accumulated": 66036
+        },
+        {
+          "measure_unixtime": 1628083824,
+          "measure": 4,
+          "measure_accumulated": 66040
+        },
+        {
+          "measure_unixtime": 1628084424,
+          "measure": 8,
+          "measure_accumulated": 66048
+        },
+        {
+          "measure_unixtime": 1628084724,
+          "measure": 1,
+          "measure_accumulated": 66049
+        },
+        {
+          "measure_unixtime": 1628085024,
+          "measure": 7,
+          "measure_accumulated": 66056
+        },
+        {
+          "measure_unixtime": 1628085624,
+          "measure": 17,
+          "measure_accumulated": 66073
+        },
+        {
+          "measure_unixtime": 1628085924,
+          "measure": 9,
+          "measure_accumulated": 66082
+        },
+        {
+          "measure_unixtime": 1628086524,
+          "measure": 18,
+          "measure_accumulated": 66100
+        },
+        {
+          "measure_unixtime": 1628086824,
+          "measure": 8,
+          "measure_accumulated": 66108
+        },
+        {
+          "measure_unixtime": 1628087124,
+          "measure": 7,
+          "measure_accumulated": 66115
+        },
+        {
+          "measure_unixtime": 1628087424,
+          "measure": 5,
+          "measure_accumulated": 66120
+        },
+        {
+          "measure_unixtime": 1628087724,
+          "measure": 6,
+          "measure_accumulated": 66126
+        },
+        {
+          "measure_unixtime": 1628088024,
+          "measure": 7,
+          "measure_accumulated": 66133
+        },
+        {
+          "measure_unixtime": 1628088924,
+          "measure": 20,
+          "measure_accumulated": 66153
+        },
+        {
+          "measure_unixtime": 1628089224,
+          "measure": 6,
+          "measure_accumulated": 66159
+        },
+        {
+          "measure_unixtime": 1628089524,
+          "measure": 7,
+          "measure_accumulated": 66166
+        },
+        {
+          "measure_unixtime": 1628089824,
+          "measure": 6,
+          "measure_accumulated": 66172
+        },
+        {
+          "measure_unixtime": 1628090124,
+          "measure": 7,
+          "measure_accumulated": 66179
+        },
+        {
+          "measure_unixtime": 1628090424,
+          "measure": 6,
+          "measure_accumulated": 66185
+        },
+        {
+          "measure_unixtime": 1628090724,
+          "measure": 6,
+          "measure_accumulated": 66191
+        },
+        {
+          "measure_unixtime": 1628091024,
+          "measure": 6,
+          "measure_accumulated": 66197
+        },
+        {
+          "measure_unixtime": 1628091324,
+          "measure": 3,
+          "measure_accumulated": 66200
+        },
+        {
+          "measure_unixtime": 1628091624,
+          "measure": 3,
+          "measure_accumulated": 66203
+        },
+        {
+          "measure_unixtime": 1628091924,
+          "measure": 4,
+          "measure_accumulated": 66207
+        },
+        {
+          "measure_unixtime": 1628092224,
+          "measure": 3,
+          "measure_accumulated": 66210
+        },
+        {
+          "measure_unixtime": 1628092524,
+          "measure": 3,
+          "measure_accumulated": 66213
+        },
+        {
+          "measure_unixtime": 1628092824,
+          "measure": 3,
+          "measure_accumulated": 66216
+        },
+        {
+          "measure_unixtime": 1628093124,
+          "measure": 3,
+          "measure_accumulated": 66219
+        },
+        {
+          "measure_unixtime": 1628093424,
+          "measure": 4,
+          "measure_accumulated": 66223
+        },
+        {
+          "measure_unixtime": 1628093724,
+          "measure": 3,
+          "measure_accumulated": 66226
+        },
+        {
+          "measure_unixtime": 1628094024,
+          "measure": 3,
+          "measure_accumulated": 66229
+        },
+        {
+          "measure_unixtime": 1628094324,
+          "measure": 4,
+          "measure_accumulated": 66233
+        },
+        {
+          "measure_unixtime": 1628094924,
+          "measure": 12,
+          "measure_accumulated": 66245
+        },
+        {
+          "measure_unixtime": 1628095224,
+          "measure": 7,
+          "measure_accumulated": 66252
+        },
+        {
+          "measure_unixtime": 1628095524,
+          "measure": 6,
+          "measure_accumulated": 66258
+        },
+        {
+          "measure_unixtime": 1628095824,
+          "measure": 6,
+          "measure_accumulated": 66264
+        },
+        {
+          "measure_unixtime": 1628096124,
+          "measure": 7,
+          "measure_accumulated": 66271
+        },
+        {
+          "measure_unixtime": 1628096424,
+          "measure": 6,
+          "measure_accumulated": 66277
+        },
+        {
+          "measure_unixtime": 1628096724,
+          "measure": 6,
+          "measure_accumulated": 66283
+        },
+        {
+          "measure_unixtime": 1628097024,
+          "measure": 6,
+          "measure_accumulated": 66289
+        },
+        {
+          "measure_unixtime": 1628097324,
+          "measure": 3,
+          "measure_accumulated": 66292
+        },
+        {
+          "measure_unixtime": 1628097624,
+          "measure": 3,
+          "measure_accumulated": 66295
+        },
+        {
+          "measure_unixtime": 1628097924,
+          "measure": 4,
+          "measure_accumulated": 66299
+        },
+        {
+          "measure_unixtime": 1628098524,
+          "measure": 6,
+          "measure_accumulated": 66305
+        },
+        {
+          "measure_unixtime": 1628098824,
+          "measure": 3,
+          "measure_accumulated": 66308
+        },
+        {
+          "measure_unixtime": 1628099124,
+          "measure": 3,
+          "measure_accumulated": 66311
+        },
+        {
+          "measure_unixtime": 1628099424,
+          "measure": 3,
+          "measure_accumulated": 66314
+        },
+        {
+          "measure_unixtime": 1628099724,
+          "measure": 3,
+          "measure_accumulated": 66317
+        },
+        {
+          "measure_unixtime": 1628100024,
+          "measure": 3,
+          "measure_accumulated": 66320
+        },
+        {
+          "measure_unixtime": 1628100324,
+          "measure": 3,
+          "measure_accumulated": 66323
+        },
+        {
+          "measure_unixtime": 1628100624,
+          "measure": 3,
+          "measure_accumulated": 66326
+        },
+        {
+          "measure_unixtime": 1628100924,
+          "measure": 5,
+          "measure_accumulated": 66331
+        },
+        {
+          "measure_unixtime": 1628101224,
+          "measure": 6,
+          "measure_accumulated": 66337
+        },
+        {
+          "measure_unixtime": 1628101524,
+          "measure": 6,
+          "measure_accumulated": 66343
+        },
+        {
+          "measure_unixtime": 1628101824,
+          "measure": 7,
+          "measure_accumulated": 66350
+        },
+        {
+          "measure_unixtime": 1628102424,
+          "measure": 12,
+          "measure_accumulated": 66362
+        },
+        {
+          "measure_unixtime": 1628103324,
+          "measure": 11,
+          "measure_accumulated": 66373
+        },
+        {
+          "measure_unixtime": 1628103924,
+          "measure": 6,
+          "measure_accumulated": 66379
+        },
+        {
+          "measure_unixtime": 1628104224,
+          "measure": 4,
+          "measure_accumulated": 66383
+        },
+        {
+          "measure_unixtime": 1628104524,
+          "measure": 3,
+          "measure_accumulated": 66386
+        },
+        {
+          "measure_unixtime": 1628104824,
+          "measure": 3,
+          "measure_accumulated": 66389
+        },
+        {
+          "measure_unixtime": 1628105124,
+          "measure": 3,
+          "measure_accumulated": 66392
+        },
+        {
+          "measure_unixtime": 1628105424,
+          "measure": 3,
+          "measure_accumulated": 66395
+        },
+        {
+          "measure_unixtime": 1628105724,
+          "measure": 4,
+          "measure_accumulated": 66399
+        },
+        {
+          "measure_unixtime": 1628106024,
+          "measure": 6,
+          "measure_accumulated": 66405
+        },
+        {
+          "measure_unixtime": 1628106324,
+          "measure": 6,
+          "measure_accumulated": 66411
+        },
+        {
+          "measure_unixtime": 1628106624,
+          "measure": 7,
+          "measure_accumulated": 66418
+        },
+        {
+          "measure_unixtime": 1628106924,
+          "measure": 6,
+          "measure_accumulated": 66424
+        },
+        {
+          "measure_unixtime": 1628107224,
+          "measure": 6,
+          "measure_accumulated": 66430
+        },
+        {
+          "measure_unixtime": 1628107524,
+          "measure": 7,
+          "measure_accumulated": 66437
+        },
+        {
+          "measure_unixtime": 1628107824,
+          "measure": 6,
+          "measure_accumulated": 66443
+        },
+        {
+          "measure_unixtime": 1628108124,
+          "measure": 6,
+          "measure_accumulated": 66449
+        },
+        {
+          "measure_unixtime": 1628108424,
+          "measure": 5,
+          "measure_accumulated": 66454
+        },
+        {
+          "measure_unixtime": 1628108724,
+          "measure": 3,
+          "measure_accumulated": 66457
+        },
+        {
+          "measure_unixtime": 1628109024,
+          "measure": 3,
+          "measure_accumulated": 66460
+        },
+        {
+          "measure_unixtime": 1628109324,
+          "measure": 3,
+          "measure_accumulated": 66463
+        },
+        {
+          "measure_unixtime": 1628109624,
+          "measure": 3,
+          "measure_accumulated": 66466
+        },
+        {
+          "measure_unixtime": 1628109924,
+          "measure": 4,
+          "measure_accumulated": 66470
+        },
+        {
+          "measure_unixtime": 1628110224,
+          "measure": 3,
+          "measure_accumulated": 66473
+        },
+        {
+          "measure_unixtime": 1628110824,
+          "measure": 8,
+          "measure_accumulated": 66481
+        },
+        {
+          "measure_unixtime": 1628111424,
+          "measure": 12,
+          "measure_accumulated": 66493
+        },
+        {
+          "measure_unixtime": 1628111724,
+          "measure": 6,
+          "measure_accumulated": 66499
+        },
+        {
+          "measure_unixtime": 1628112024,
+          "measure": 7,
+          "measure_accumulated": 66506
+        },
+        {
+          "measure_unixtime": 1628112324,
+          "measure": 6,
+          "measure_accumulated": 66512
+        },
+        {
+          "measure_unixtime": 1628112624,
+          "measure": 6,
+          "measure_accumulated": 66518
+        },
+        {
+          "measure_unixtime": 1628112924,
+          "measure": 4,
+          "measure_accumulated": 66522
+        },
+        {
+          "measure_unixtime": 1628113224,
+          "measure": 3,
+          "measure_accumulated": 66525
+        },
+        {
+          "measure_unixtime": 1628113524,
+          "measure": 3,
+          "measure_accumulated": 66528
+        },
+        {
+          "measure_unixtime": 1628113824,
+          "measure": 3,
+          "measure_accumulated": 66531
+        },
+        {
+          "measure_unixtime": 1628114424,
+          "measure": 6,
+          "measure_accumulated": 66537
+        },
+        {
+          "measure_unixtime": 1628114724,
+          "measure": 3,
+          "measure_accumulated": 66540
+        },
+        {
+          "measure_unixtime": 1628115324,
+          "measure": 7,
+          "measure_accumulated": 66547
+        },
+        {
+          "measure_unixtime": 1628115924,
+          "measure": 6,
+          "measure_accumulated": 66553
+        },
+        {
+          "measure_unixtime": 1628116224,
+          "measure": 3,
+          "measure_accumulated": 66556
+        },
+        {
+          "measure_unixtime": 1628116524,
+          "measure": 5,
+          "measure_accumulated": 66561
+        },
+        {
+          "measure_unixtime": 1628116824,
+          "measure": 6,
+          "measure_accumulated": 66567
+        },
+        {
+          "measure_unixtime": 1628117124,
+          "measure": 6,
+          "measure_accumulated": 66573
+        },
+        {
+          "measure_unixtime": 1628117424,
+          "measure": 6,
+          "measure_accumulated": 66579
+        },
+        {
+          "measure_unixtime": 1628117724,
+          "measure": 7,
+          "measure_accumulated": 66586
+        },
+        {
+          "measure_unixtime": 1628118024,
+          "measure": 6,
+          "measure_accumulated": 66592
+        },
+        {
+          "measure_unixtime": 1628118324,
+          "measure": 6,
+          "measure_accumulated": 66598
+        },
+        {
+          "measure_unixtime": 1628118624,
+          "measure": 3,
+          "measure_accumulated": 66601
+        },
+        {
+          "measure_unixtime": 1628118924,
+          "measure": 3,
+          "measure_accumulated": 66604
+        },
+        {
+          "measure_unixtime": 1628119224,
+          "measure": 3,
+          "measure_accumulated": 66607
+        },
+        {
+          "measure_unixtime": 1628119524,
+          "measure": 4,
+          "measure_accumulated": 66611
+        },
+        {
+          "measure_unixtime": 1628119824,
+          "measure": 4,
+          "measure_accumulated": 66615
+        },
+        {
+          "measure_unixtime": 1628120124,
+          "measure": 6,
+          "measure_accumulated": 66621
+        },
+        {
+          "measure_unixtime": 1628120424,
+          "measure": 6,
+          "measure_accumulated": 66627
+        },
+        {
+          "measure_unixtime": 1628121024,
+          "measure": 13,
+          "measure_accumulated": 66640
+        },
+        {
+          "measure_unixtime": 1628121324,
+          "measure": 6,
+          "measure_accumulated": 66646
+        },
+        {
+          "measure_unixtime": 1628121924,
+          "measure": 10,
+          "measure_accumulated": 66656
+        },
+        {
+          "measure_unixtime": 1628122224,
+          "measure": 3,
+          "measure_accumulated": 66659
+        },
+        {
+          "measure_unixtime": 1628122524,
+          "measure": 4,
+          "measure_accumulated": 66663
+        },
+        {
+          "measure_unixtime": 1628122824,
+          "measure": 3,
+          "measure_accumulated": 66666
+        },
+        {
+          "measure_unixtime": 1628123124,
+          "measure": 3,
+          "measure_accumulated": 66669
+        },
+        {
+          "measure_unixtime": 1628123724,
+          "measure": 6,
+          "measure_accumulated": 66675
+        },
+        {
+          "measure_unixtime": 1628124024,
+          "measure": 4,
+          "measure_accumulated": 66679
+        },
+        {
+          "measure_unixtime": 1628124624,
+          "measure": 6,
+          "measure_accumulated": 66685
+        },
+        {
+          "measure_unixtime": 1628125224,
+          "measure": 8,
+          "measure_accumulated": 66693
+        },
+        {
+          "measure_unixtime": 1628125524,
+          "measure": 6,
+          "measure_accumulated": 66699
+        },
+        {
+          "measure_unixtime": 1628126124,
+          "measure": 13,
+          "measure_accumulated": 66712
+        },
+        {
+          "measure_unixtime": 1628126724,
+          "measure": 12,
+          "measure_accumulated": 66724
+        },
+        {
+          "measure_unixtime": 1628127024,
+          "measure": 3,
+          "measure_accumulated": 66727
+        },
+        {
+          "measure_unixtime": 1628127324,
+          "measure": 3,
+          "measure_accumulated": 66730
+        },
+        {
+          "measure_unixtime": 1628127624,
+          "measure": 4,
+          "measure_accumulated": 66734
+        },
+        {
+          "measure_unixtime": 1628127924,
+          "measure": 3,
+          "measure_accumulated": 66737
+        },
+        {
+          "measure_unixtime": 1628128224,
+          "measure": 3,
+          "measure_accumulated": 66740
+        },
+        {
+          "measure_unixtime": 1628128524,
+          "measure": 3,
+          "measure_accumulated": 66743
+        },
+        {
+          "measure_unixtime": 1628129124,
+          "measure": 7,
+          "measure_accumulated": 66750
+        },
+        {
+          "measure_unixtime": 1628129424,
+          "measure": 3,
+          "measure_accumulated": 66753
+        },
+        {
+          "measure_unixtime": 1628129724,
+          "measure": 3,
+          "measure_accumulated": 66756
+        },
+        {
+          "measure_unixtime": 1628130324,
+          "measure": 7,
+          "measure_accumulated": 66763
+        },
+        {
+          "measure_unixtime": 1628130624,
+          "measure": 3,
+          "measure_accumulated": 66766
+        },
+        {
+          "measure_unixtime": 1628130924,
+          "measure": 2,
+          "measure_accumulated": 66768
+        },
+        {
+          "measure_unixtime": 1628131224,
+          "measure": 4,
+          "measure_accumulated": 66772
+        },
+        {
+          "measure_unixtime": 1628131524,
+          "measure": 7,
+          "measure_accumulated": 66779
+        },
+        {
+          "measure_unixtime": 1628131824,
+          "measure": 9,
+          "measure_accumulated": 66788
+        },
+        {
+          "measure_unixtime": 1628132424,
+          "measure": 18,
+          "measure_accumulated": 66806
+        },
+        {
+          "measure_unixtime": 1628133024,
+          "measure": 18,
+          "measure_accumulated": 66824
+        },
+        {
+          "measure_unixtime": 1628133324,
+          "measure": 8,
+          "measure_accumulated": 66832
+        },
+        {
+          "measure_unixtime": 1628133624,
+          "measure": 5,
+          "measure_accumulated": 66837
+        },
+        {
+          "measure_unixtime": 1628133924,
+          "measure": 6,
+          "measure_accumulated": 66843
+        },
+        {
+          "measure_unixtime": 1628134224,
+          "measure": 6,
+          "measure_accumulated": 66849
+        },
+        {
+          "measure_unixtime": 1628134524,
+          "measure": 7,
+          "measure_accumulated": 66856
+        },
+        {
+          "measure_unixtime": 1628135124,
+          "measure": 13,
+          "measure_accumulated": 66869
+        },
+        {
+          "measure_unixtime": 1628135424,
+          "measure": 7,
+          "measure_accumulated": 66876
+        },
+        {
+          "measure_unixtime": 1628136024,
+          "measure": 13,
+          "measure_accumulated": 66889
+        },
+        {
+          "measure_unixtime": 1628136324,
+          "measure": 6,
+          "measure_accumulated": 66895
+        },
+        {
+          "measure_unixtime": 1628136624,
+          "measure": 6,
+          "measure_accumulated": 66901
+        },
+        {
+          "measure_unixtime": 1628136924,
+          "measure": 5,
+          "measure_accumulated": 66906
+        },
+        {
+          "measure_unixtime": 1628137224,
+          "measure": 3,
+          "measure_accumulated": 66909
+        },
+        {
+          "measure_unixtime": 1628137824,
+          "measure": 10,
+          "measure_accumulated": 66919
+        },
+        {
+          "measure_unixtime": 1628138724,
+          "measure": 19,
+          "measure_accumulated": 66938
+        },
+        {
+          "measure_unixtime": 1628139324,
+          "measure": 13,
+          "measure_accumulated": 66951
+        },
+        {
+          "measure_unixtime": 1628139624,
+          "measure": 6,
+          "measure_accumulated": 66957
+        },
+        {
+          "measure_unixtime": 1628139924,
+          "measure": 5,
+          "measure_accumulated": 66962
+        },
+        {
+          "measure_unixtime": 1628140224,
+          "measure": 3,
+          "measure_accumulated": 66965
+        },
+        {
+          "measure_unixtime": 1628141124,
+          "measure": 10,
+          "measure_accumulated": 66975
+        },
+        {
+          "measure_unixtime": 1628141424,
+          "measure": 3,
+          "measure_accumulated": 66978
+        },
+        {
+          "measure_unixtime": 1628141724,
+          "measure": 3,
+          "measure_accumulated": 66981
+        },
+        {
+          "measure_unixtime": 1628142024,
+          "measure": 3,
+          "measure_accumulated": 66984
+        },
+        {
+          "measure_unixtime": 1628142924,
+          "measure": 9,
+          "measure_accumulated": 66993
+        },
+        {
+          "measure_unixtime": 1628143224,
+          "measure": 3,
+          "measure_accumulated": 66996
+        },
+        {
+          "measure_unixtime": 1628143524,
+          "measure": 4,
+          "measure_accumulated": 67000
+        },
+        {
+          "measure_unixtime": 1628143824,
+          "measure": 3,
+          "measure_accumulated": 67003
+        },
+        {
+          "measure_unixtime": 1628144124,
+          "measure": 3,
+          "measure_accumulated": 67006
+        },
+        {
+          "measure_unixtime": 1628144424,
+          "measure": 3,
+          "measure_accumulated": 67009
+        },
+        {
+          "measure_unixtime": 1628144724,
+          "measure": 3,
+          "measure_accumulated": 67012
+        },
+        {
+          "measure_unixtime": 1628145024,
+          "measure": 3,
+          "measure_accumulated": 67015
+        },
+        {
+          "measure_unixtime": 1628145324,
+          "measure": 3,
+          "measure_accumulated": 67018
+        },
+        {
+          "measure_unixtime": 1628145624,
+          "measure": 3,
+          "measure_accumulated": 67021
+        },
+        {
+          "measure_unixtime": 1628146224,
+          "measure": 6,
+          "measure_accumulated": 67027
+        },
+        {
+          "measure_unixtime": 1628146524,
+          "measure": 3,
+          "measure_accumulated": 67030
+        },
+        {
+          "measure_unixtime": 1628146824,
+          "measure": 3,
+          "measure_accumulated": 67033
+        },
+        {
+          "measure_unixtime": 1628147124,
+          "measure": 4,
+          "measure_accumulated": 67037
+        },
+        {
+          "measure_unixtime": 1628147424,
+          "measure": 4,
+          "measure_accumulated": 67041
+        },
+        {
+          "measure_unixtime": 1628147724,
+          "measure": 4,
+          "measure_accumulated": 67045
+        },
+        {
+          "measure_unixtime": 1628148024,
+          "measure": 3,
+          "measure_accumulated": 67048
+        },
+        {
+          "measure_unixtime": 1628148324,
+          "measure": 3,
+          "measure_accumulated": 67051
+        },
+        {
+          "measure_unixtime": 1628148624,
+          "measure": 4,
+          "measure_accumulated": 67055
+        },
+        {
+          "measure_unixtime": 1628148924,
+          "measure": 3,
+          "measure_accumulated": 67058
+        },
+        {
+          "measure_unixtime": 1628149224,
+          "measure": 3,
+          "measure_accumulated": 67061
+        },
+        {
+          "measure_unixtime": 1628149524,
+          "measure": 3,
+          "measure_accumulated": 67064
+        },
+        {
+          "measure_unixtime": 1628149824,
+          "measure": 3,
+          "measure_accumulated": 67067
+        },
+        {
+          "measure_unixtime": 1628150124,
+          "measure": 3,
+          "measure_accumulated": 67070
+        },
+        {
+          "measure_unixtime": 1628150424,
+          "measure": 3,
+          "measure_accumulated": 67073
+        },
+        {
+          "measure_unixtime": 1628150724,
+          "measure": 3,
+          "measure_accumulated": 67076
+        },
+        {
+          "measure_unixtime": 1628151324,
+          "measure": 6,
+          "measure_accumulated": 67082
+        },
+        {
+          "measure_unixtime": 1628151624,
+          "measure": 4,
+          "measure_accumulated": 67086
+        },
+        {
+          "measure_unixtime": 1628151924,
+          "measure": 2,
+          "measure_accumulated": 67088
+        },
+        {
+          "measure_unixtime": 1628152224,
+          "measure": 3,
+          "measure_accumulated": 67091
+        }
+      ]
+    }
+  ],
+  "quantity": 1000,
+  "device_id": "198762435721298897478401",
+  "device_name": "Energia D1 - C2 Geladeira"
+}
