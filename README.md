@@ -2,6 +2,18 @@
 
 Projeto CATALAN: **C**oimbra **A**drisson **T**oso **A**lynne **L**ucas **A**lexa**N**dre
 
+<p align="center">
+  <img src="./data/logo-small.png" />
+</p>
+
+<!--
+Mals pelo HTML ae galera, mas era pq eu queria alinhar a imagem no centro da tela =/
+
+Código original sem HTML (imagem alinhada na esquerda):
+![Catalan Logo](./data/logo-small.png)
+
+-->
+
 Projeto desenvolvido para a matéria de HID-65: Engenharia para o Ambiente e Sustentabilidade do Instituto Tecnológico de Aeronáutica (ITA) para os cursos de Engenharia Eletrônica e Engenharia de Computação.
 
 ## Proposta
