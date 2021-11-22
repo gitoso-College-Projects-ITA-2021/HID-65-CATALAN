@@ -1,21 +1,20 @@
 from dash import dcc, html
 import dash_bootstrap_components as dbc
 from datetime import date
+from datetime import datetime
 
 
-def build_layout(fig):
+def build_layout(dt_start, dt_end, consumo_conv, custo_conv, consumo_branca, custo_branca, fig):
+
     layout = html.Div(
         [
             _build_title(),
 
             _build_options(),
 
-            _build_options2(),
-
-            dcc.Graph(
-                id='consumo-no-tempo',
-                figure=fig
-            )
+            _build_header(dt_start, dt_end, consumo_conv, custo_conv, consumo_branca, custo_branca),
+            
+            _build_graph(fig)
         ],
         className="bg-light",
     )
@@ -47,33 +46,81 @@ def _build_options():
         [
             dbc.ButtonGroup([
                 dbc.Button(
-                    "Último Mês", 
-                    color="secondary", 
-                    className="me-1"
-                ),
-                dbc.Button(
-                    "Última Semana", 
-                    color="secondary", 
-                    className="me-1"
-                ),
-                dbc.Button(
-                    "Últimas 24h", 
-                    color="secondary", 
-                    className="me-1"
-                ),
-                dbc.Button(
-                    "Últimas 12h", 
+                    "Últimos 3 Meses", 
                     color="secondary", 
                     className="me-1",
+                    id='btn-last-3months',
+                    n_clicks=0
                 ),
                 dbc.Button(
-                    "Última Hora", 
+                    "Últimos 2 Meses", 
                     color="secondary", 
-                    className="me-1"
+                    className="me-1",
+                    id='btn-last-2months',
+                    n_clicks=0
+                ),
+                dbc.Button(
+                    "Último Mês", 
+                    color="secondary", 
+                    className="me-1",
+                    id='btn-last-month',
+                    n_clicks=0
                 ),
             ]),
         ]
     )
+
+def _build_header(dt_start, dt_end, consumo_conv, custo_conv, consumo_branca, custo_branca):
+    if dt_start == None or dt_end == None or consumo_conv == None or custo_conv == None or consumo_branca == None or custo_branca == None:
+        return html.Div([
+                    html.Hr(className="my-2"),
+                    html.H6(f'Selecione um período para realizar o cálculo das tarifas', className="display-5", id='range'),
+                    html.Br(),
+                    html.H6("", id='consumo', className="display-6"),
+                    html.H6("", id='custo-conv', className="display-6"),
+                    html.H6("", id='custo-branca', className="display-6"),
+                ],
+                className="bg-light",
+                style = {
+                    'textAlign': 'center'
+                }
+            )
+    
+    in_date_format_str = '%Y-%m-%d %H:%M:%S'
+    start_date = datetime.strptime(dt_start, in_date_format_str)
+    end_date = datetime.strptime(dt_end, in_date_format_str)
+
+    out_date_format_str = '%d/%m/%Y'
+    start_date = start_date.strftime(out_date_format_str)
+    end_date = end_date.strftime(out_date_format_str)
+
+    return html.Div([
+                    html.Hr(className="my-2"),
+                    html.H6(f'Datas: {start_date} a {end_date}', className="display-5", id='range'),
+                    html.Br(),
+                    html.H6(f"Consumo: {consumo_conv:.2f} kWh", id='consumo', className="display-6"),
+                    html.H6(f"Tarifa Convencional: R$ {custo_conv:.2f}", id='custo-conv', className="display-6"),
+                    html.H6(f"Tarifa Branca: R$ {custo_branca:.2f}", id='custo-branca', className="display-6"),
+                ],
+                className="bg-light",
+                style = {
+                    'textAlign': 'center'
+                }
+            )
+
+def _build_graph(fig):
+    if fig == None:
+        return dcc.Graph(
+                id='consumo-no-tempo',
+                figure = {
+                    'data': []
+                }
+            )
+    
+    return dcc.Graph(
+                id='consumo-no-tempo',
+                figure=fig
+            )
 
 def _build_options2():
     return dbc.Container(
@@ -92,3 +139,4 @@ def _build_options2():
             ),
         ]
     )
+

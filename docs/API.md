@@ -13,10 +13,7 @@
 
 ### Exemplo de aplicação:
 ```bash
-curl --location --request GET
-'https://api.tecsus.com.br/v0/smartmeter/get_simple_data?device_id=198762435721298897478401&dt_start=2021-08-01
-00:00:00&dt_end=2021-08-30 00:00:00' \
---header 'x-api-key: $TECSUS_API_KEY'
+curl --request GET --location "https://api.tecsus.com.br/v0/smartmeter/get_simple_data?device_id=198762435721298897478401&dt_start=2021-08-01%2000:00:00&dt_end=2021-08-30%2000:00:00" --header "x-api-key: $TECSUS_API_KEY"
 ```
 
 ### Exemplo de resposta:
