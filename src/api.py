@@ -17,20 +17,6 @@ headers = {
 def get_consumption(device_id, dt_start, dt_end):
     params_array = break_daterange_in_periods(device_id, dt_start, dt_end)
 
-    # req = requests.get(url, headers=headers, params=params).json()
-
-    # if req['error']:
-    #     logger.error(f"Request failed with messsage: { req['msg'] }")
-    #     exit
-
-    # data = [d['name'] for d in req['data']]
-
-    # logger.info("Request info:")
-    # logger.info("msg     = {}".format(req['msg']))
-    # logger.info("device  = {}".format(req["device_name"]))
-    # logger.info("data    = {}".format(data))
-
-    # -----------------------------------------
     measures = []
     measures_time = []
     measures_accumulated = []
@@ -54,18 +40,10 @@ def get_consumption(device_id, dt_start, dt_end):
             measures.append(raw_measure['measure'])
             measures_time.append(datetime.fromtimestamp(raw_measure['measure_unixtime']))
             measures_accumulated.append(raw_measure['measure_accumulated'])
-    # -----------------------------------------
-    # raw_measures = req['data'][0]['measures']
 
-    # measures = []
-    # measures_time = []
-    # measures_accumulated = []
+    (consumo_conv, custo_conv) = custo_convencional(measures)
+    (consumo_branca, custo_branca) = custo_tarifa_branca(measures, measures_time)
 
-    # for raw_measure in raw_measures:
-    #     measures.append(raw_measure['measure'])
-    #     measures_time.append(datetime.fromtimestamp(raw_measure['measure_unixtime']))
-    #     measures_accumulated.append(raw_measure['measure_accumulated'])
-        
     # Suaviza Intervalos (deixar consumo mais constante)
     measures_smooth = []
     measures_time_smooth = []
@@ -97,13 +75,50 @@ def get_consumption(device_id, dt_start, dt_end):
         measures_mm.append( sum(measures_range) / len(measures_range) )
     measures_time_mm = measures_time_smooth[mm_range:]
 
-    fig = px.line(x=measures_time_mm, y=measures_mm, title=f'Consumo: {req["device_name"]}')
+    fig = px.line(x=measures_time_smooth, y=measures_smooth, title=f'Dispositivo: {req["device_name"]}')
     fig.update_xaxes(title="Data")
     fig.update_yaxes(title="Consumo [Wh]")
-    return fig
+    return (consumo_conv, custo_conv, consumo_branca, custo_branca, fig)
+
+def seleciona_tarifa(hours, minutes):
+    total_minutes = hours*60 + minutes
+    
+    if total_minutes <= 16*60 + 30 or total_minutes >= 21*60 + 30:
+        return 'ponta'
+    elif total_minutes <= 17*60 + 30 or total_minutes >= 20*60 + 30:
+        return 'intermediario'
+    else:
+        return 'foraponta'
+
+def custo_convencional(measures):
+    # Tarifa normal (fácil de calcular)
+    taxa = 0.636
+    custo = 0
+    consumo = 0
+    for i in range(len(measures)):
+        consumo += measures[i] / 1000
+        custo += measures[i] / 1000 * taxa
+    
+    return (consumo, custo)
+
+def custo_tarifa_branca(measures, measures_time):
+    # Tarifa branca (mais suga)
+    taxa = {}
+    taxa['ponta'] = 0.512
+    taxa['intermediario'] = 0.721
+    taxa['foraponta'] = 1.113
+
+    custo = 0
+    consumo = 0
+    for i in range(len(measures)):
+        tarifa = seleciona_tarifa(measures_time[i].minute, measures_time[i].hour)
+        consumo += measures[i] / 1000
+        custo += measures[i] / 1000 * taxa[tarifa]
+    
+    return (consumo, custo)
 
 def break_daterange_in_periods(device_id, dt_start, dt_end):
-    MAX_DAYS_REQUEST = 4
+    MAX_DAYS_REQUEST = 3
     date_format_str = '%Y-%m-%d %H:%M:%S'
 
     start_date = datetime.strptime(dt_start, date_format_str)
